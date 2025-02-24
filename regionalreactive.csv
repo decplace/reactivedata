@@ -1,0 +1,1690 @@
+BuildingID,Postcode,Category,SupplierName,TotalTasks
+A019,TN23 5AQ,Building Fabric Maintenance,UBS,50
+A019,TN23 5AQ,Building Fabric Maintenance,Expert Access Solutions,3
+A019,TN23 5AQ,Building Fabric Maintenance,Marlowe,3
+A019,TN23 5AQ,Building Fabric Maintenance,RJ Lifts,2
+A019,TN23 5AQ,Building Fabric Maintenance,Parr FM,2
+A019,TN23 5AQ,Building Fabric Maintenance,Dorma Kaba,1
+A019,TN23 5AQ,Building Fabric Maintenance,Metro Rod,1
+A019,TN23 5AQ,Building Fabric Maintenance,NSS Maintenance,1
+A019,TN23 5AQ,Cleaning,Metro Rod,1
+A019,TN23 5AQ,Emergency & Fire Safety Systems,UBS,5
+A019,TN23 5AQ,Emergency & Fire Safety Systems,Marlowe,4
+A019,TN23 5AQ,Emergency & Fire Safety Systems,MSL,1
+A019,TN23 5AQ,M&E Services,UBS,28
+A019,TN23 5AQ,M&E Services,RJ Lifts,4
+A019,TN23 5AQ,M&E Services,Dorma Kaba,3
+A019,TN23 5AQ,M&E Services,Expert Access Solutions,3
+A019,TN23 5AQ,M&E Services,Metro Rod,2
+A019,TN23 5AQ,M&E Services,Aqualytix,1
+A019,TN23 5AQ,M&E Services,Marlowe,1
+A019,TN23 5AQ,M&E Services,HCS WATER TREATMENT,1
+A019,TN23 5AQ,Security,Marlowe,4
+A020,CT3 3BB,Building Fabric Maintenance,UBS,2
+A020,CT3 3BB,Building Fabric Maintenance,MSL,1
+A020,CT3 3BB,Ground & Landscaping,IdVerde,1
+A020,CT3 3BB,Ground & Landscaping,Parr FM,1
+A024,DL11 7TH,Building Fabric Maintenance,MSL,2
+A024,DL11 7TH,Ground & Landscaping,J K & J Johnson Grounds Maintenance,1
+A024,DL11 7TH,M&E Services,MSL,1
+A024,DL11 7TH,M&E Services,HFL Building Solutions,1
+A024,DL11 7TH,M&E Services,RJ Lifts,1
+A025,LE65 2LP,Building Fabric Maintenance,UBS,4
+A025,LE65 2LP,Building Fabric Maintenance,MSL,1
+A025,LE65 2LP,Building Fabric Maintenance,Parr FM,1
+A025,LE65 2LP,Building Fabric Maintenance,Marlowe,1
+A025,LE65 2LP,Car Park Management,UBS,1
+A025,LE65 2LP,Emergency & Fire Safety Systems,Marlowe,2
+A025,LE65 2LP,Ground & Landscaping,UBS,2
+A025,LE65 2LP,Ground & Landscaping,MSL,1
+A025,LE65 2LP,M&E Services,UBS,6
+A025,LE65 2LP,M&E Services,Parr FM,2
+A025,LE65 2LP,M&E Services,Dorma Kaba,1
+A025,LE65 2LP,M&E Services,Expert Access Solutions,1
+A025,LE65 2LP,M&E Services,MSL,1
+A025,LE65 2LP,M&E Services,Aqualytix,1
+A025,LE65 2LP,M&E Services,B-Engineering,1
+A027,NG32 3PP,Building Fabric Maintenance,MSL,2
+A027,NG32 3PP,Ground & Landscaping,IdVerde,2
+A027,NG32 3PP,M&E Services,B-Engineering,2
+A027,NG32 3PP,M&E Services,HFL Building Solutions,1
+A027,NG32 3PP,M&E Services,All Round Security,1
+A027,NG32 3PP,M&E Services,Dorma Kaba,1
+A031,SY23 3TL,Building Fabric Maintenance,NSS Maintenance,5
+A031,SY23 3TL,Building Fabric Maintenance,MSL,1
+A031,SY23 3TL,Ground & Landscaping,MSL,1
+A033,SY23 3DU,Building Fabric Maintenance,MSL,11
+A033,SY23 3DU,Building Fabric Maintenance,NSS Maintenance,4
+A033,SY23 3DU,Building Fabric Maintenance,SB-FM,1
+A033,SY23 3DU,Building Fabric Maintenance,LCM Group,1
+A033,SY23 3DU,Ground & Landscaping,IdVerde,9
+A033,SY23 3DU,Ground & Landscaping,Ground Control,1
+A033,SY23 3DU,Ground & Landscaping,SB-FM,1
+A033,SY23 3DU,M&E Services,RJ Lifts,3
+A033,SY23 3DU,M&E Services,MSL,2
+A033,SY23 3DU,M&E Services,JSM Building Solutions,1
+A033,SY23 3DU,Security,MSL,1
+A036,WA14 1GY,Building Fabric Maintenance,HFL Building Solutions,2
+A036,WA14 1GY,Building Fabric Maintenance,Arrow Industrial,1
+A036,WA14 1GY,Car Park Management,Arrow Industrial,1
+A036,WA14 1GY,Car Park Management,Marlowe,1
+A036,WA14 1GY,Cleaning,Rentokil,2
+A036,WA14 1GY,Cleaning,SB-FM,1
+A036,WA14 1GY,M&E Services,RJ Lifts,6
+A036,WA14 1GY,M&E Services,HFL Building Solutions,6
+A036,WA14 1GY,M&E Services,Aqualytix,2
+A036,WA14 1GY,M&E Services,Metro Rod,1
+A036,WA14 1GY,Security,Marlowe,3
+A036,WA14 1GY,Security,Arrow Industrial,1
+B018,EH19 2ET,Building Fabric Maintenance,NSS Maintenance,5
+B018,EH19 2ET,Car Park Management,Parr FM,2
+B018,EH19 2ET,Ground & Landscaping,IdVerde,1
+B021,BL1 8UP,Building Fabric Maintenance,HFL Building Solutions,8
+B021,BL1 8UP,Building Fabric Maintenance,Arrow Industrial,2
+B021,BL1 8UP,Building Fabric Maintenance,NSS Maintenance,2
+B021,BL1 8UP,Building Fabric Maintenance,Parr FM,2
+B021,BL1 8UP,Building Fabric Maintenance,UBS,1
+B021,BL1 8UP,Car Park Management,Parr FM,2
+B021,BL1 8UP,Car Park Management,Arrow Industrial,1
+B021,BL1 8UP,Ground & Landscaping,IdVerde,5
+B021,BL1 8UP,Ground & Landscaping,Ground Control,1
+B021,BL1 8UP,Ground & Landscaping,MSL,1
+B021,BL1 8UP,M&E Services,RJ Lifts,9
+B021,BL1 8UP,M&E Services,HFL Building Solutions,4
+B021,BL1 8UP,M&E Services,Arrow Industrial,1
+B025,OX16 9AD,Building Fabric Maintenance,UBS,34
+B025,OX16 9AD,Building Fabric Maintenance,NSS Maintenance,3
+B025,OX16 9AD,Building Fabric Maintenance,Expert Access Solutions,2
+B025,OX16 9AD,Building Fabric Maintenance,Metro Rod,1
+B025,OX16 9AD,Emergency & Fire Safety Systems,Marlowe,3
+B025,OX16 9AD,Ground & Landscaping,Ground Control,1
+B025,OX16 9AD,M&E Services,UBS,14
+B025,OX16 9AD,M&E Services,B-Engineering,8
+B025,OX16 9AD,M&E Services,RJ Lifts,6
+B025,OX16 9AD,M&E Services,Aqualytix,2
+B025,OX16 9AD,M&E Services,Dorma Kaba,1
+B025,OX16 9AD,Security,Marlowe,6
+B028,DE14 3EY,Building Fabric Maintenance,UBS,7
+B028,DE14 3EY,Building Fabric Maintenance,MSL,2
+B028,DE14 3EY,Car Park Management,UBS,3
+B028,DE14 3EY,Cleaning,IdVerde,1
+B028,DE14 3EY,Cleaning,SB-FM,1
+B028,DE14 3EY,Emergency & Fire Safety Systems,All Round Security,2
+B028,DE14 3EY,Ground & Landscaping,Parr FM,2
+B028,DE14 3EY,Ground & Landscaping,UBS,2
+B028,DE14 3EY,Ground & Landscaping,Ground Control,1
+B028,DE14 3EY,M&E Services,UBS,18
+B028,DE14 3EY,M&E Services,Aqualytix,3
+B028,DE14 3EY,M&E Services,Metro Rod,2
+B028,DE14 3EY,M&E Services,RJ Lifts,1
+B028,DE14 3EY,Security,Marlowe,1
+B029,B12 0UF,Building Fabric Maintenance,NSS Maintenance,2
+B029,B12 0UF,Car Park Management,Arrow Industrial,4
+B029,B12 0UF,Car Park Management,Parr FM,1
+B029,B12 0UF,M&E Services,UBS,5
+B031,RG21 7AP,Building Fabric Maintenance,UBS,10
+B031,RG21 7AP,Building Fabric Maintenance,Expert Access Solutions,3
+B031,RG21 7AP,Building Fabric Maintenance,Dorma Kaba,1
+B031,RG21 7AP,Building Fabric Maintenance,Metro Rod,1
+B031,RG21 7AP,Building Fabric Maintenance,NSS Maintenance,1
+B031,RG21 7AP,Car Park Management,RJ Lifts,1
+B031,RG21 7AP,Cleaning,SB-FM,1
+B031,RG21 7AP,Emergency & Fire Safety Systems,UBS,5
+B031,RG21 7AP,Emergency & Fire Safety Systems,Marlowe,5
+B031,RG21 7AP,M&E Services,UBS,40
+B031,RG21 7AP,M&E Services,RJ Lifts,15
+B031,RG21 7AP,M&E Services,HCS WATER TREATMENT,8
+B031,RG21 7AP,M&E Services,Metro Rod,1
+B031,RG21 7AP,M&E Services,Caledonian Lift,1
+B031,RG21 7AP,Waste disposal,MSL,1
+B035,CH41 8DB,Building Fabric Maintenance,NSS Maintenance,3
+B035,CH41 8DB,Building Fabric Maintenance,Parr FM,3
+B035,CH41 8DB,Building Fabric Maintenance,Arrow Industrial,3
+B035,CH41 8DB,Building Fabric Maintenance,UBS,2
+B035,CH41 8DB,Building Fabric Maintenance,HFL Building Solutions,2
+B035,CH41 8DB,Car Park Management,All Round Security,3
+B035,CH41 8DB,Car Park Management,Dorma Kaba,2
+B035,CH41 8DB,Car Park Management,Parr FM,1
+B035,CH41 8DB,Car Park Management,IdVerde,1
+B035,CH41 8DB,Emergency & Fire Safety Systems,Marlowe,1
+B035,CH41 8DB,Ground & Landscaping,Ground Control,1
+B035,CH41 8DB,Ground & Landscaping,IdVerde,1
+B035,CH41 8DB,M&E Services,HFL Building Solutions,8
+B035,CH41 8DB,M&E Services,RJ Lifts,3
+B035,CH41 8DB,M&E Services,All Round Security,3
+B035,CH41 8DB,M&E Services,Metro Rod,3
+B035,CH41 8DB,M&E Services,Arrow Industrial,2
+B035,CH41 8DB,M&E Services,Dorma Kaba,2
+B035,CH41 8DB,Security,Marlowe,3
+B035,CH41 8DB,Security,Securigroup,2
+B035,CH41 8DB,Security,HFL Building Solutions,1
+B040,FY3 9HF,M&E Services,Metro Rod,1
+B049,S75 3RF,Building Fabric Maintenance,Parr FM,1
+B049,S75 3RF,Building Fabric Maintenance,NSS Maintenance,1
+B049,S75 3RF,Cleaning,Rentokil,1
+B049,S75 3RF,Ground & Landscaping,Ground Control,1
+B049,S75 3RF,Ground & Landscaping,MSL,1
+B049,S75 3RF,M&E Services,Arrow Industrial,2
+B051,FY2 0JG,Building Fabric Maintenance,NSS Maintenance,7
+B051,FY2 0JG,Building Fabric Maintenance,Parr FM,3
+B051,FY2 0JG,Building Fabric Maintenance,JSM Building Solutions,2
+B051,FY2 0JG,Building Fabric Maintenance,UBS,2
+B051,FY2 0JG,Building Fabric Maintenance,MSL,1
+B051,FY2 0JG,Building Fabric Maintenance,Arrow Industrial,1
+B051,FY2 0JG,Car Park Management,Parr FM,2
+B051,FY2 0JG,Car Park Management,MSL,1
+B051,FY2 0JG,Emergency & Fire Safety Systems,Marlowe,5
+B051,FY2 0JG,Emergency & Fire Safety Systems,Arrow Industrial,2
+B051,FY2 0JG,Ground & Landscaping,Ground Control,4
+B051,FY2 0JG,Ground & Landscaping,Parr FM,4
+B051,FY2 0JG,M&E Services,RJ Lifts,3
+B051,FY2 0JG,M&E Services,Arrow Industrial,3
+B051,FY2 0JG,M&E Services,JSM Building Solutions,1
+B051,FY2 0JG,M&E Services,Metro Rod,1
+B051,FY2 0JG,M&E Services,MSL,1
+B051,FY2 0JG,Security,Marlowe,1
+B056,BN1 1EJ,Building Fabric Maintenance,Parr FM,1
+B056,BN1 1EJ,M&E Services,UBS,2
+B058,BS16 7AL,Building Fabric Maintenance,UBS,1
+B059,HU17 7BZ,Building Fabric Maintenance,HFL Building Solutions,4
+B059,HU17 7BZ,Building Fabric Maintenance,Parr FM,4
+B059,HU17 7BZ,Building Fabric Maintenance,UBS,2
+B059,HU17 7BZ,Car Park Management,Arrow Industrial,5
+B059,HU17 7BZ,Cleaning,HFL Building Solutions,1
+B059,HU17 7BZ,Emergency & Fire Safety Systems,Marlowe,5
+B059,HU17 7BZ,Emergency & Fire Safety Systems,HFL Building Solutions,3
+B059,HU17 7BZ,M&E Services,HFL Building Solutions,8
+B059,HU17 7BZ,M&E Services,RJ Lifts,5
+B059,HU17 7BZ,M&E Services,Arrow Industrial,5
+B059,HU17 7BZ,M&E Services,Dorma Kaba,2
+B059,HU17 7BZ,M&E Services,Aqualytix,2
+B059,HU17 7BZ,M&E Services,HCS WATER TREATMENT,1
+B059,HU17 7BZ,M&E Services,UBS,1
+B059,HU17 7BZ,Security,Securigroup,2
+B059,HU17 7BZ,Security,Marlowe,2
+B061,BN1 1EJ,Building Fabric Maintenance,UBS,3
+B061,BN1 1EJ,Building Fabric Maintenance,SB-FM,1
+B062,BN1 8DD,Building Fabric Maintenance,MSL,10
+B062,BN1 8DD,Building Fabric Maintenance,NSS Maintenance,5
+B062,BN1 8DD,Building Fabric Maintenance,Parr FM,2
+B062,BN1 8DD,Building Fabric Maintenance,UBS,1
+B062,BN1 8DD,Emergency & Fire Safety Systems,Parr FM,1
+B062,BN1 8DD,M&E Services,UBS,5
+B062,BN1 8DD,M&E Services,MSL,2
+B062,BN1 8DD,M&E Services,Parr FM,1
+B066,CV7 7RW ,Car Park Management,Dorma Kaba,3
+B066,CV7 7RW ,Car Park Management,Expert Access Solutions,1
+B067,CH63 2LR,Building Fabric Maintenance,Parr FM,1
+B067,CH63 2LR,Emergency & Fire Safety Systems,Marlowe,1
+B067,CH63 2LR,Ground & Landscaping,Ground Control,2
+B067,CH63 2LR,Security,Marlowe,1
+B068,NG8 4PN,Ground & Landscaping,MSL,2
+B073,DL13 5NX,Car Park Management,Parr FM,2
+B073,DL13 5NX,Ground & Landscaping,Ground Control,2
+B074,DL14 6AB,Building Fabric Maintenance,HFL Building Solutions,1
+B074,DL14 6AB,Emergency & Fire Safety Systems,Marlowe,1
+B074,DL14 6AB,Ground & Landscaping,IdVerde,1
+B074,DL14 6AB,M&E Services,RJ Lifts,3
+B074,DL14 6AB,M&E Services,Arrow Industrial,2
+B074,DL14 6AB,M&E Services,All Round Security,1
+B074,DL14 6AB,M&E Services,HFL Building Solutions,1
+B074,DL14 6AB,M&E Services,Aqualytix,1
+B074,DL14 6AB,Security,Marlowe,2
+B074,DL14 6AB,Security,Arrow Industrial,2
+B075,WS8 7JB,Building Fabric Maintenance,NSS Maintenance,3
+B075,WS8 7JB,Building Fabric Maintenance,Zest Recycling,1
+B075,WS8 7JB,Building Fabric Maintenance,UBS,1
+B075,WS8 7JB,Building Fabric Maintenance,SB-FM,1
+B075,WS8 7JB,Car Park Management,UBS,3
+B075,WS8 7JB,Emergency & Fire Safety Systems,Marlowe,4
+B075,WS8 7JB,Emergency & Fire Safety Systems,Arrow Industrial,1
+B075,WS8 7JB,Emergency & Fire Safety Systems,UBS,1
+B075,WS8 7JB,M&E Services,UBS,15
+B075,WS8 7JB,M&E Services,RJ Lifts,9
+B075,WS8 7JB,M&E Services,Arrow Industrial,6
+B075,WS8 7JB,M&E Services,B-Engineering,1
+B075,WS8 7JB,M&E Services,Aqualytix,1
+B075,WS8 7JB,Security,Marlowe,3
+B075,WS8 7JB,Security,UBS,1
+B075,WS8 7JB,Security,Arrow Industrial,1
+B077,M9 8PP,Building Fabric Maintenance,NSS Maintenance,4
+B077,M9 8PP,Building Fabric Maintenance,Parr FM,1
+B077,M9 8PP,Car Park Management,Arrow Industrial,3
+B077,M9 8PP,Ground & Landscaping,Parr FM,2
+B081,CF62 8GP,Building Fabric Maintenance,MSL,10
+B081,CF62 8GP,Building Fabric Maintenance,NSS Maintenance,3
+B081,CF62 8GP,Building Fabric Maintenance,Metro Rod,1
+B081,CF62 8GP,Car Park Management,MSL,2
+B081,CF62 8GP,Cleaning,Rentokil,2
+B081,CF62 8GP,Emergency & Fire Safety Systems,MSL,2
+B081,CF62 8GP,Ground & Landscaping,MSL,6
+B082,WV16 4EN,Building Fabric Maintenance,NSS Maintenance,1
+B082,WV16 4EN,Building Fabric Maintenance,Parr FM,1
+B083,CF62 5QN,Building Fabric Maintenance,Parr FM,1
+B083,CF62 5QN,Car Park Management,MSL,2
+B083,CF62 5QN,Car Park Management,Expert Access Solutions,2
+B083,CF62 5QN,Car Park Management,Arrow Industrial,2
+B083,CF62 5QN,Car Park Management,Metro Rod,2
+B083,CF62 5QN,Car Park Management,IdVerde,1
+B083,CF62 5QN,Car Park Management,Dorma Kaba,1
+B083,CF62 5QN,Cleaning,SB-FM,1
+B083,CF62 5QN,Ground & Landscaping,IdVerde,2
+B083,CF62 5QN,Ground & Landscaping,Ground Control,2
+B085,DY12 2EF,Building Fabric Maintenance,MSL,2
+B085,DY12 2EF,Car Park Management,Arrow Industrial,1
+B085,DY12 2EF,Car Park Management,MSL,1
+B085,DY12 2EF,Ground & Landscaping,Parr FM,1
+B085,DY12 2EF,M&E Services,Metro Rod,1
+B095,NN6 9WR,Building Fabric Maintenance,MSL,2
+B095,NN6 9WR,Building Fabric Maintenance,Parr FM,1
+B098,CF31 3NL,Building Fabric Maintenance,NSS Maintenance,3
+B098,CF31 3NL,Building Fabric Maintenance,MSL,1
+B098,CF31 3NL,Building Fabric Maintenance,Parr FM,1
+B098,CF31 3NL,Ground & Landscaping,IdVerde,1
+B098,CF31 3NL,M&E Services,RJ Lifts,2
+B098,CF31 3NL,M&E Services,MSL,1
+B099,TN39 5HE,Car Park Management,UBS,1
+B099,TN39 5HE,Ground & Landscaping,UBS,1
+B100,S70 3NE,Building Fabric Maintenance,NSS Maintenance,2
+B105,CM14 5WF,Building Fabric Maintenance,NSS Maintenance,6
+B105,CM14 5WF,Car Park Management,IdVerde,2
+B105,CM14 5WF,M&E Services,UBS,7
+B105,CM14 5WF,M&E Services,Aqualytix,1
+B105,CM14 5WF,M&E Services,PTSG - Electrical Services,1
+B105,CM14 5WF,M&E Services,Metro Rod,1
+B108,BH5 1NE,Building Fabric Maintenance,MSL,2
+B108,BH5 1NE,Car Park Management,MSL,2
+B108,BH5 1NE,Ground & Landscaping,MSL,3
+B108,BH5 1NE,M&E Services,MSL,1
+B111,B19 2ET,Building Fabric Maintenance,UBS,1
+B111,B19 2ET,Emergency & Fire Safety Systems,UBS,3
+B111,B19 2ET,Emergency & Fire Safety Systems,Parr FM,2
+B111,B19 2ET,Emergency & Fire Safety Systems,All Round Security,1
+B111,B19 2ET,Ground & Landscaping,Parr FM,3
+B111,B19 2ET,Ground & Landscaping,MSL,1
+B111,B19 2ET,M&E Services,UBS,2
+B116,TN40 2SD,Car Park Management,Arrow Industrial,2
+B118,S70 6QW,Ground & Landscaping,MSL,1
+B118,S70 6QW,Ground & Landscaping,Ground Control,1
+B118,S70 6QW,M&E Services,Arrow Industrial,2
+B118,S70 6QW,M&E Services,Metro Rod,1
+B120,B31 2FR,Building Fabric Maintenance,MSL,3
+B120,B31 2FR,Building Fabric Maintenance,Parr FM,1
+B120,B31 2FR,Car Park Management,Parr FM,1
+B120,B31 2FR,Cleaning,Rentokil,3
+B120,B31 2FR,Ground & Landscaping,IdVerde,1
+B120,B31 2FR,M&E Services,RJ Lifts,10
+B120,B31 2FR,M&E Services,UBS,6
+B120,B31 2FR,M&E Services,Metro Rod,3
+B120,B31 2FR,M&E Services,PTSG - Electrical Services,3
+B120,B31 2FR,M&E Services,Aqualytix,2
+B123,BA2 3HT,Building Fabric Maintenance,MSL,1
+B123,BA2 3HT,Cleaning,Rentokil,1
+B126,HP9 1TX,Building Fabric Maintenance,Parr FM,3
+B126,HP9 1TX,Building Fabric Maintenance,UBS,2
+B126,HP9 1TX,Car Park Management,UBS,3
+B126,HP9 1TX,Car Park Management,Parr FM,2
+B126,HP9 1TX,Cleaning,IdVerde,1
+B126,HP9 1TX,Cleaning,SB-FM,1
+B126,HP9 1TX,Emergency & Fire Safety Systems,Marlowe,5
+B126,HP9 1TX,Emergency & Fire Safety Systems,UBS,1
+B126,HP9 1TX,Ground & Landscaping,Parr FM,1
+B126,HP9 1TX,Ground & Landscaping,IdVerde,1
+B126,HP9 1TX,M&E Services,UBS,15
+B126,HP9 1TX,M&E Services,Metro Rod,3
+B126,HP9 1TX,M&E Services,Aqualytix,2
+B126,HP9 1TX,M&E Services,PTSG - Electrical Services,2
+B126,HP9 1TX,M&E Services,Parr FM,1
+B126,HP9 1TX,M&E Services,Dorma Kaba,1
+B126,HP9 1TX,Security,Marlowe,6
+B127,BD7 3JX,Building Fabric Maintenance,Pro-Active,18
+B127,BD7 3JX,Building Fabric Maintenance,MSL,2
+B127,BD7 3JX,Building Fabric Maintenance,UBS,2
+B127,BD7 3JX,Car Park Management,Pro-Active,1
+B127,BD7 3JX,Emergency & Fire Safety Systems,Pro-Active,3
+B127,BD7 3JX,Ground & Landscaping,Ground Control,2
+B127,BD7 3JX,Ground & Landscaping,J K & J Johnson Grounds Maintenance,2
+B127,BD7 3JX,Ground & Landscaping,IdVerde,1
+B127,BD7 3JX,M&E Services,Pro-Active,18
+B127,BD7 3JX,M&E Services,UBS,6
+B127,BD7 3JX,M&E Services,RJ Lifts,4
+B127,BD7 3JX,M&E Services,Arrow Industrial,1
+B127,BD7 3JX,Security,Pro-Active,10
+B127,BD7 3JX,Security,Arrow Industrial,1
+B127,BD7 3JX,Security,Marlowe,1
+B131,B1 3AL,Car Park Management,Dorma Kaba,4
+B131,B1 3AL,Car Park Management,All Round Security,2
+B131,B1 3AL,M&E Services,UBS,3
+B131,B1 3AL,M&E Services,B-Engineering,2
+B131,B1 3AL,M&E Services,Arrow Industrial,1
+B131,B1 3AL,M&E Services,MSL,1
+B131,B1 3AL,M&E Services,Parr FM,1
+B131,B1 3AL,Security,Arrow Industrial,1
+B139,SW9 8RR,Building Fabric Maintenance,Rentokil,2
+B139,SW9 8RR,Building Fabric Maintenance,MSL,2
+B139,SW9 8RR,Building Fabric Maintenance,NSS Maintenance,1
+B139,SW9 8RR,Emergency & Fire Safety Systems,Marlowe,1
+B139,SW9 8RR,M&E Services,Metro Rod,3
+C026,CW1 3AW,Building Fabric Maintenance,Parr FM,3
+C026,CW1 3AW,Building Fabric Maintenance,MSL,1
+C026,CW1 3AW,Building Fabric Maintenance,JSM Building Solutions,1
+C026,CW1 3AW,Building Fabric Maintenance,Franklin Infrastructure,1
+C026,CW1 3AW,Building Fabric Maintenance,Construction Linx,1
+C026,CW1 3AW,Building Fabric Maintenance,NSS Maintenance,1
+C026,CW1 3AW,Car Park Management,Parr FM,1
+C026,CW1 3AW,Ground & Landscaping,Parr FM,4
+C026,CW1 3AW,Ground & Landscaping,MSL,2
+C026,CW1 3AW,Ground & Landscaping,IdVerde,2
+C026,CW1 3AW,Ground & Landscaping,Ground Control,1
+C026,CW1 3AW,Ground & Landscaping,NSS Maintenance,1
+C026,CW1 3AW,Ground & Landscaping,Arrow Industrial,1
+C026,CW1 3AW,M&E Services,RJ Lifts,3
+C026,CW1 3AW,M&E Services,Parr FM,3
+C026,CW1 3AW,M&E Services,MSL,1
+C031,KT9 2GY,Emergency & Fire Safety Systems,Marlowe,1
+C034,DE11 9JT,Cleaning,NSS Maintenance,2
+C034,DE11 9JT,Ground & Landscaping,IdVerde,1
+C034,DE11 9JT,Security,MSL,1
+C035,DE73 5BG,Building Fabric Maintenance,Parr FM,4
+C035,DE73 5BG,Building Fabric Maintenance,MSL,1
+C035,DE73 5BG,Emergency & Fire Safety Systems,Marlowe,1
+C035,DE73 5BG,M&E Services,Metro Rod,2
+C041,S40 2HP,Building Fabric Maintenance,UBS,1
+C041,S40 2HP,Ground & Landscaping,MSL,5
+C041,S40 2HP,Ground & Landscaping,UBS,1
+C041,S40 2HP,Ground & Landscaping,J K & J Johnson Grounds Maintenance,1
+C042,S44 6DF,Building Fabric Maintenance,MSL,3
+C042,S44 6DF,Car Park Management,MSL,1
+C042,S44 6DF,Car Park Management,Parr FM,1
+C042,S44 6DF,Ground & Landscaping,Parr FM,1
+C042,S44 6DF,M&E Services,Metro Rod,1
+C044,CO4 5LE,Building Fabric Maintenance,MSL,1
+C048,PO8 8DL,Building Fabric Maintenance,NSS Maintenance,2
+C048,PO8 8DL,Car Park Management,Franklin Infrastructure,1
+C048,PO8 8DL,Car Park Management,IdVerde,1
+C048,PO8 8DL,Emergency & Fire Safety Systems,UBS,1
+C048,PO8 8DL,Ground & Landscaping,MSL,2
+C048,PO8 8DL,M&E Services,RJ Lifts,4
+C048,PO8 8DL,M&E Services,MSL,3
+C048,PO8 8DL,M&E Services,Metro Rod,1
+C049,NE40 4US,Building Fabric Maintenance,All Round Security,2
+C049,NE40 4US,Building Fabric Maintenance,Dorma Kaba,1
+C049,NE40 4US,Building Fabric Maintenance,MSL,1
+C049,NE40 4US,Ground & Landscaping,MSL,1
+C049,NE40 4US,M&E Services,Arrow Industrial,3
+C062,DL15 9HU,Building Fabric Maintenance,NSS Maintenance,7
+C062,DL15 9HU,Building Fabric Maintenance,HFL Building Solutions,3
+C062,DL15 9HU,Ground & Landscaping,J K & J Johnson Grounds Maintenance,1
+C062,DL15 9HU,M&E Services,HFL Building Solutions,8
+C062,DL15 9HU,M&E Services,RJ Lifts,5
+C062,DL15 9HU,M&E Services,B-Engineering,1
+C062,DL15 9HU,M&E Services,Marlowe,1
+C063,CF15 8DZ,Ground & Landscaping,MSL,1
+C063,CF15 8DZ,M&E Services,RJ Lifts,3
+C063,CF15 8DZ,M&E Services,MSL,1
+C064,DL14 8NP,Emergency & Fire Safety Systems,Marlowe,1
+C064,DL14 8NP,Ground & Landscaping,MSL,2
+C064,DL14 8NP,M&E Services,HFL Building Solutions,7
+C064,DL14 8NP,M&E Services,RJ Lifts,4
+C064,DL14 8NP,M&E Services,MSL,2
+C064,DL14 8NP,M&E Services,Arrow Industrial,2
+C064,DL14 8NP,M&E Services,Aqualytix,1
+C064,DL14 8NP,M&E Services,B-Engineering,1
+C065,SN14 6GT,Building Fabric Maintenance,MSL,6
+C065,SN14 6GT,Building Fabric Maintenance,Parr FM,3
+C065,SN14 6GT,Building Fabric Maintenance,NSS Maintenance,2
+C065,SN14 6GT,Car Park Management,MSL,5
+C065,SN14 6GT,Car Park Management,Parr FM,2
+C065,SN14 6GT,Car Park Management,UBS,1
+C065,SN14 6GT,Cleaning,MSL,2
+C065,SN14 6GT,Cleaning,Rentokil,1
+C065,SN14 6GT,Emergency & Fire Safety Systems,Parr FM,4
+C065,SN14 6GT,Ground & Landscaping,Parr FM,2
+C065,SN14 6GT,Ground & Landscaping,UBS,2
+C065,SN14 6GT,Ground & Landscaping,IdVerde,2
+C065,SN14 6GT,M&E Services,Expert Access Solutions,1
+C070,LL14 5DH,Security,MSL,1
+C071,DY14 8DB,Building Fabric Maintenance,Parr FM,2
+C081,RH11 9JA,Ground & Landscaping,MSL,2
+C081,RH11 9JA,Ground & Landscaping,IdVerde,1
+C081,RH11 9JA,M&E Services,MSL,1
+C083,LE67 4DE,Building Fabric Maintenance,NSS Maintenance,4
+C083,LE67 4DE,Building Fabric Maintenance,Parr FM,2
+C083,LE67 4DE,Car Park Management,MSL,1
+C083,LE67 4DE,M&E Services,Metro Rod,3
+C084,S40 2AB,Building Fabric Maintenance,UBS,2
+C084,S40 2AB,Car Park Management,UBS,4
+C084,S40 2AB,Cleaning,IdVerde,1
+C084,S40 2AB,Cleaning,Rentokil,1
+C084,S40 2AB,Cleaning,SB-FM,1
+C084,S40 2AB,Emergency & Fire Safety Systems,HFL Building Solutions,3
+C084,S40 2AB,Emergency & Fire Safety Systems,Marlowe,1
+C084,S40 2AB,Ground & Landscaping,UBS,3
+C084,S40 2AB,M&E Services,HFL Building Solutions,15
+C084,S40 2AB,M&E Services,RJ Lifts,6
+C084,S40 2AB,M&E Services,Parr FM,1
+C084,S40 2AB,M&E Services,UBS,1
+C084,S40 2AB,M&E Services,B-Engineering,1
+C086,DN35 7XE,Building Fabric Maintenance,NSS Maintenance,7
+C086,DN35 7XE,Building Fabric Maintenance,Parr FM,2
+C086,DN35 7XE,Building Fabric Maintenance,UBS,1
+C086,DN35 7XE,Building Fabric Maintenance,MSL,1
+C092,WF10 1PH,Car Park Management,Dorma Kaba,1
+C092,WF10 1PH,Car Park Management,All Round Security,1
+C092,WF10 1PH,Ground & Landscaping,J K & J Johnson Grounds Maintenance,4
+C099,CT1 3NR,Ground & Landscaping,MSL,2
+C099,CT1 3NR,Ground & Landscaping,Franklin Infrastructure,1
+C105,DN35 0LJ,Building Fabric Maintenance,MSL,1
+C105,DN35 0LJ,Building Fabric Maintenance,NSS Maintenance,1
+C105,DN35 0LJ,Car Park Management,Arrow Industrial,1
+C105,DN35 0LJ,Emergency & Fire Safety Systems,Marlowe,1
+C105,DN35 0LJ,Ground & Landscaping,MSL,2
+C105,DN35 0LJ,M&E Services,MSL,2
+C105,DN35 0LJ,M&E Services,Metro Rod,1
+C106,GL50 4DP,Building Fabric Maintenance,NSS Maintenance,3
+C106,GL50 4DP,Building Fabric Maintenance,MSL,3
+C106,GL50 4DP,Building Fabric Maintenance,Dorma Kaba,2
+C106,GL50 4DP,Ground & Landscaping,IdVerde,1
+C106,GL50 4DP,M&E Services,MSL,1
+C106,GL50 4DP,Security,MSL,1
+C106,GL50 4DP,Waste disposal,MSL,1
+D018,YO21 2PA,Building Fabric Maintenance,NSS Maintenance,2
+D019,OX11 7JH,Building Fabric Maintenance,NSS Maintenance,2
+D019,OX11 7JH,Car Park Management,Expert Access Solutions,1
+D020,CT14 6PY,Building Fabric Maintenance,Parr FM,2
+D020,CT14 6PY,Building Fabric Maintenance,NSS Maintenance,1
+D020,CT14 6PY,Ground & Landscaping,IdVerde,1
+D022,CM3 4QL,Building Fabric Maintenance,NSS Maintenance,3
+D022,CM3 4QL,Building Fabric Maintenance,MSL,3
+D022,CM3 4QL,Building Fabric Maintenance,Expert Access Solutions,2
+D022,CM3 4QL,Building Fabric Maintenance,Franklin Infrastructure,2
+D022,CM3 4QL,Building Fabric Maintenance,Dorma Kaba,1
+D022,CM3 4QL,Building Fabric Maintenance,Parr FM,1
+D022,CM3 4QL,Ground & Landscaping,Franklin Infrastructure,1
+D022,CM3 4QL,M&E Services,Arrow Industrial,1
+D023,TF4 2AA,Building Fabric Maintenance,NSS Maintenance,2
+D023,TF4 2AA,Building Fabric Maintenance,UBS,2
+D023,TF4 2AA,Ground & Landscaping,MSL,2
+D023,TF4 2AA,M&E Services,MSL,2
+D024,DY1 2BY,Car Park Management,Expert Access Solutions,2
+D024,DY1 2BY,Car Park Management,IdVerde,1
+D024,DY1 2BY,M&E Services,Parr FM,1
+D025,S18 1PY,Building Fabric Maintenance,NSS Maintenance,1
+D025,S18 1PY,Building Fabric Maintenance,PTSG - Access & Safety,1
+D025,S18 1PY,Ground & Landscaping,MSL,2
+D025,S18 1PY,M&E Services,HFL Building Solutions,12
+D025,S18 1PY,M&E Services,B-Engineering,2
+D025,S18 1PY,M&E Services,MSL,1
+D025,S18 1PY,M&E Services,PTSG - Electrical Services,1
+D029,TF2 8EA,Building Fabric Maintenance,NSS Maintenance,3
+D029,TF2 8EA,Building Fabric Maintenance,MSL,1
+D029,TF2 8EA,Car Park Management,MSL,2
+D029,TF2 8EA,Ground & Landscaping,MSL,4
+D029,TF2 8EA,Ground & Landscaping,IdVerde,1
+D035,DE4 2EU,Ground & Landscaping,MSL,1
+D035,DE4 2EU,M&E Services,Metro Rod,1
+D039,TA22 9EN,Building Fabric Maintenance,MSL,1
+D039,TA22 9EN,Building Fabric Maintenance,NSS Maintenance,1
+D039,TA22 9EN,Building Fabric Maintenance,UK Gutters,1
+D039,TA22 9EN,Car Park Management,MSL,2
+D039,TA22 9EN,Ground & Landscaping,MSL,3
+D039,TA22 9EN,M&E Services,MSL,1
+D041,CT17 9SG,Ground & Landscaping,MSL,2
+D041,CT17 9SG,Ground & Landscaping,Franklin Infrastructure,1
+E010,BN24 5DZ,Building Fabric Maintenance,MSL,1
+E010,BN24 5DZ,Building Fabric Maintenance,Parr FM,1
+E010,BN24 5DZ,Building Fabric Maintenance,Marlowe,1
+E010,BN24 5DZ,Car Park Management,MSL,4
+E010,BN24 5DZ,Ground & Landscaping,MSL,4
+E010,BN24 5DZ,M&E Services,NSS Maintenance,2
+E018,EH6 4EG,Ground & Landscaping,UBS,2
+E021,W5 4RH,Building Fabric Maintenance,NSS Maintenance,2
+E021,W5 4RH,Ground & Landscaping,IdVerde,1
+F014,PR4 1RY,Building Fabric Maintenance,HFL Building Solutions,3
+F014,PR4 1RY,Building Fabric Maintenance,Arrow Industrial,2
+F014,PR4 1RY,Building Fabric Maintenance,UBS,2
+F014,PR4 1RY,Building Fabric Maintenance,NSS Maintenance,1
+F014,PR4 1RY,Building Fabric Maintenance,Parr FM,1
+F014,PR4 1RY,Car Park Management,MSL,1
+F014,PR4 1RY,Ground & Landscaping,Ground Control,2
+F014,PR4 1RY,Ground & Landscaping,IdVerde,1
+F014,PR4 1RY,Ground & Landscaping,Whitesides,1
+F014,PR4 1RY,M&E Services,HFL Building Solutions,3
+F014,PR4 1RY,M&E Services,Metro Rod,2
+F014,PR4 1RY,M&E Services,UBS,2
+F014,PR4 1RY,Security,Marlowe,1
+F016,FY7 6NU,Building Fabric Maintenance,NSS Maintenance,3
+F016,FY7 6NU,Building Fabric Maintenance,HFL Building Solutions,2
+F016,FY7 6NU,Building Fabric Maintenance,JSM Building Solutions,1
+F016,FY7 6NU,Building Fabric Maintenance,MSL,1
+F016,FY7 6NU,Cleaning,Rentokil,1
+F016,FY7 6NU,Cleaning,SB-FM,1
+F016,FY7 6NU,Emergency & Fire Safety Systems,Marlowe,2
+F016,FY7 6NU,Ground & Landscaping,IdVerde,1
+F016,FY7 6NU,Ground & Landscaping,Ground Control,1
+F016,FY7 6NU,M&E Services,HFL Building Solutions,23
+F016,FY7 6NU,M&E Services,UBS,3
+F016,FY7 6NU,M&E Services,RJ Lifts,2
+F016,FY7 6NU,M&E Services,MSL,2
+F016,FY7 6NU,M&E Services,Construction Linx,1
+F016,FY7 6NU,M&E Services,Arrow Industrial,1
+F016,FY7 6NU,Security,Marlowe,1
+F016,FY7 6NU,Waste disposal,Zest Recycling,1
+G003,DN34 4GB,Building Fabric Maintenance,HFL Building Solutions,11
+G003,DN34 4GB,Building Fabric Maintenance,Parr FM,5
+G003,DN34 4GB,Building Fabric Maintenance,NSS Maintenance,3
+G003,DN34 4GB,Building Fabric Maintenance,UBS,2
+G003,DN34 4GB,Building Fabric Maintenance,Arrow Industrial,2
+G003,DN34 4GB,Building Fabric Maintenance,Franklin Infrastructure,1
+G003,DN34 4GB,Building Fabric Maintenance,MSL,1
+G003,DN34 4GB,Car Park Management,Arrow Industrial,1
+G003,DN34 4GB,Car Park Management,HFL Building Solutions,1
+G003,DN34 4GB,Cleaning,SB-FM,1
+G003,DN34 4GB,Emergency & Fire Safety Systems,Arrow Industrial,7
+G003,DN34 4GB,Emergency & Fire Safety Systems,HFL Building Solutions,6
+G003,DN34 4GB,Emergency & Fire Safety Systems,Marlowe,5
+G003,DN34 4GB,Emergency & Fire Safety Systems,UBS,1
+G003,DN34 4GB,Emergency & Fire Safety Systems,MSL,1
+G003,DN34 4GB,Ground & Landscaping,MSL,2
+G003,DN34 4GB,M&E Services,HFL Building Solutions,35
+G003,DN34 4GB,M&E Services,RJ Lifts,5
+G003,DN34 4GB,M&E Services,Aqualytix,3
+G003,DN34 4GB,M&E Services,Arrow Industrial,3
+G003,DN34 4GB,M&E Services,Metro Rod,2
+G003,DN34 4GB,M&E Services,UBS,1
+G003,DN34 4GB,Security,Arrow Industrial,4
+G003,DN34 4GB,Security,Marlowe,4
+G003,DN34 4GB,Security,HFL Building Solutions,1
+G003,DN34 4GB,Security,MSL,1
+G011,PR3 1PB,Building Fabric Maintenance,Parr FM,8
+G011,PR3 1PB,Building Fabric Maintenance,UBS,2
+G011,PR3 1PB,Building Fabric Maintenance,Arrow Industrial,1
+G011,PR3 1PB,Building Fabric Maintenance,Dorma Kaba,1
+G011,PR3 1PB,Building Fabric Maintenance,All Round Security,1
+G011,PR3 1PB,Building Fabric Maintenance,UK Gutters,1
+G011,PR3 1PB,Emergency & Fire Safety Systems,All Round Security,1
+G011,PR3 1PB,Ground & Landscaping,IdVerde,1
+G011,PR3 1PB,M&E Services,Metro Rod,9
+G011,PR3 1PB,M&E Services,Parr FM,2
+G011,PR3 1PB,M&E Services,Dorma Kaba,2
+G011,PR3 1PB,M&E Services,All Round Security,2
+G011,PR3 1PB,M&E Services,MSL,1
+G015,DN31 1QZ,M&E Services,Arrow Industrial,1
+G016,GL1 3PX,Building Fabric Maintenance,MSL,2
+G016,GL1 3PX,Building Fabric Maintenance,Parr FM,1
+G016,GL1 3PX,Building Fabric Maintenance,Rentokil,1
+G016,GL1 3PX,Ground & Landscaping,UBS,4
+G016,GL1 3PX,Ground & Landscaping,IdVerde,2
+G018,RM17 5JY ,Building Fabric Maintenance,UBS,12
+G018,RM17 5JY ,Building Fabric Maintenance,NSS Maintenance,6
+G018,RM17 5JY ,Building Fabric Maintenance,Parr FM,2
+G018,RM17 5JY ,Building Fabric Maintenance,MSL,2
+G018,RM17 5JY ,Building Fabric Maintenance,Expert Access Solutions,1
+G018,RM17 5JY ,Cleaning,IdVerde,1
+G018,RM17 5JY ,Emergency & Fire Safety Systems,UBS,1
+G018,RM17 5JY ,Emergency & Fire Safety Systems,Dorma Kaba,1
+G018,RM17 5JY ,Emergency & Fire Safety Systems,Marlowe,1
+G018,RM17 5JY ,Ground & Landscaping,UBS,2
+G018,RM17 5JY ,M&E Services,UBS,13
+G018,RM17 5JY ,M&E Services,Metro Rod,3
+G018,RM17 5JY ,M&E Services,RJ Lifts,2
+G018,RM17 5JY ,Waste disposal,UBS,1
+G021,LS25 1HB,Building Fabric Maintenance,NSS Maintenance,4
+G021,LS25 1HB,Building Fabric Maintenance,Parr FM,2
+G021,LS25 1HB,Building Fabric Maintenance,UBS,2
+G021,LS25 1HB,Building Fabric Maintenance,Whitesides,1
+G021,LS25 1HB,Ground & Landscaping,MSL,1
+G021,LS25 1HB,Ground & Landscaping,J K & J Johnson Grounds Maintenance,1
+G021,LS25 1HB,M&E Services,MSL,1
+G026,NR31 6QB,Building Fabric Maintenance,Parr FM,7
+G027,ME7 5UA,Building Fabric Maintenance,Parr FM,1
+H014,HU13 9LZ,Building Fabric Maintenance,HFL Building Solutions,13
+H014,HU13 9LZ,Building Fabric Maintenance,Parr FM,2
+H014,HU13 9LZ,Building Fabric Maintenance,Arrow Industrial,1
+H014,HU13 9LZ,Building Fabric Maintenance,UBS,1
+H014,HU13 9LZ,Building Fabric Maintenance,MSL,1
+H014,HU13 9LZ,Emergency & Fire Safety Systems,Marlowe,3
+H014,HU13 9LZ,Ground & Landscaping,MSL,3
+H014,HU13 9LZ,Ground & Landscaping,J K & J Johnson Grounds Maintenance,1
+H014,HU13 9LZ,M&E Services,HFL Building Solutions,10
+H014,HU13 9LZ,M&E Services,Aqualytix,2
+H014,HU13 9LZ,M&E Services,RJ Lifts,2
+H014,HU13 9LZ,Security,Marlowe,2
+H014,HU13 9LZ,Waste disposal,Zest Recycling,1
+H025,NG17 2NF,Ground & Landscaping,IdVerde,1
+H025,NG17 2NF,Ground & Landscaping,UBS,1
+H025,NG17 2NF,M&E Services,Dorma Kaba,2
+H025,NG17 2NF,M&E Services,All Round Security,1
+H026,LL46 2US,Ground & Landscaping,Ground Control,1
+H027,HD1 3AL,Building Fabric Maintenance,NSS Maintenance,1
+H027,HD1 3AL,Building Fabric Maintenance,Arrow Industrial,1
+H027,HD1 3AL,Car Park Management,Arrow Industrial,1
+H027,HD1 3AL,M&E Services,HFL Building Solutions,3
+H027,HD1 3AL,M&E Services,B-Engineering,2
+H027,HD1 3AL,M&E Services,Aqualytix,1
+H027,HD1 3AL,M&E Services,RJ Lifts,1
+H028,B28 8BG,Building Fabric Maintenance,MSL,1
+H028,B28 8BG,Building Fabric Maintenance,Parr FM,1
+H028,B28 8BG,Car Park Management,MSL,2
+H034,E9 7TA,Building Fabric Maintenance,Parr FM,1
+H037,OX3 9JA,M&E Services,Parr FM,1
+H042,HA1 2UP,M&E Services,RJ Lifts,1
+H043,HR3 5DS,Building Fabric Maintenance,MSL,7
+H043,HR3 5DS,Building Fabric Maintenance,NSS Maintenance,1
+H043,HR3 5DS,Car Park Management,UBS,2
+H048,CT6 5RE,M&E Services,MSL,6
+H049,CT6 6SR,Building Fabric Maintenance,PTSG - Electrical Services,1
+H049,CT6 6SR,M&E Services,PTSG - Electrical Services,2
+H050,SK14 1JY,Building Fabric Maintenance,NSS Maintenance,3
+H050,SK14 1JY,Building Fabric Maintenance,HFL Building Solutions,2
+H050,SK14 1JY,Building Fabric Maintenance,Whitesides,1
+H050,SK14 1JY,M&E Services,HFL Building Solutions,7
+H050,SK14 1JY,M&E Services,Arrow Industrial,4
+H050,SK14 1JY,M&E Services,Metro Rod,3
+H050,SK14 1JY,M&E Services,RJ Lifts,2
+H054,TS26 8DB,Building Fabric Maintenance,HFL Building Solutions,9
+H054,TS26 8DB,Building Fabric Maintenance,MSL,2
+H054,TS26 8DB,Building Fabric Maintenance,Metro Rod,1
+H054,TS26 8DB,Building Fabric Maintenance,Arrow Industrial,1
+H054,TS26 8DB,Car Park Management,MSL,1
+H054,TS26 8DB,Cleaning,Rentokil,1
+H054,TS26 8DB,Ground & Landscaping,HFL Building Solutions,1
+H054,TS26 8DB,Ground & Landscaping,J K & J Johnson Grounds Maintenance,1
+H054,TS26 8DB,M&E Services,HFL Building Solutions,18
+H054,TS26 8DB,M&E Services,Metro Rod,7
+H054,TS26 8DB,M&E Services,HCS WATER TREATMENT,5
+H054,TS26 8DB,M&E Services,Arrow Industrial,1
+H054,TS26 8DB,Security,Marlowe,2
+H054,TS26 8DB,Security,HFL Building Solutions,2
+H054,TS26 8DB,Security,Dorma Kaba,2
+H054,TS26 8DB,Security,Securigroup,1
+H054,TS26 8DB,Security,All Round Security,1
+H056,LA3 2LE,Building Fabric Maintenance,MSL,1
+H057,TN38 8BL,Building Fabric Maintenance,MSL,2
+H057,TN38 8BL,Building Fabric Maintenance,Parr FM,2
+H057,TN38 8BL,Building Fabric Maintenance,UBS,1
+H057,TN38 8BL,Car Park Management,Parr FM,1
+H057,TN38 8BL,Emergency & Fire Safety Systems,Marlowe,2
+H057,TN38 8BL,M&E Services,UBS,1
+H059,HR1 1BB,Building Fabric Maintenance,MSL,2
+H059,HR1 1BB,Building Fabric Maintenance,Expert Access Solutions,2
+H059,HR1 1BB,Building Fabric Maintenance,Parr FM,1
+H059,HR1 1BB,Car Park Management,IdVerde,1
+H059,HR1 1BB,Emergency & Fire Safety Systems,Expert Access Solutions,4
+H059,HR1 1BB,Emergency & Fire Safety Systems,Marlowe,1
+H059,HR1 1BB,M&E Services,MSL,7
+H059,HR1 1BB,M&E Services,RJ Lifts,5
+H059,HR1 1BB,M&E Services,Metro Rod,5
+H059,HR1 1BB,M&E Services,Expert Access Solutions,1
+H061,HX1 5NU,Building Fabric Maintenance,NSS Maintenance,5
+H061,HX1 5NU,Building Fabric Maintenance,Arrow Industrial,2
+H061,HX1 5NU,Building Fabric Maintenance,MSL,1
+H061,HX1 5NU,Car Park Management,HFL Building Solutions,1
+H061,HX1 5NU,Car Park Management,Arrow Industrial,1
+H061,HX1 5NU,Emergency & Fire Safety Systems,Marlowe,1
+H061,HX1 5NU,Ground & Landscaping,Ground Control,1
+H061,HX1 5NU,M&E Services,HFL Building Solutions,8
+H061,HX1 5NU,M&E Services,Arrow Industrial,4
+H061,HX1 5NU,M&E Services,RJ Lifts,1
+H061,HX1 5NU,Security,Arrow Industrial,3
+H061,HX1 5NU,Waste disposal,J K & J Johnson Grounds Maintenance,1
+H064,BN27 4XJ,Building Fabric Maintenance,MSL,4
+H064,BN27 4XJ,Building Fabric Maintenance,UBS,2
+H064,BN27 4XJ,Building Fabric Maintenance,NSS Maintenance,2
+H064,BN27 4XJ,Building Fabric Maintenance,Parr FM,2
+H064,BN27 4XJ,Car Park Management,Parr FM,1
+H064,BN27 4XJ,Car Park Management,MSL,1
+H064,BN27 4XJ,Ground & Landscaping,IdVerde,2
+H064,BN27 4XJ,Ground & Landscaping,Parr FM,1
+I009,IP3 9QJ ,Building Fabric Maintenance,NSS Maintenance,3
+I009,IP3 9QJ ,Cleaning,Rentokil,1
+I009,IP3 9QJ ,Ground & Landscaping,MSL,3
+I009,IP3 9QJ ,M&E Services,RJ Lifts,6
+I010,LS29 8TQ,Car Park Management,MSL,1
+I010,LS29 8TQ,Car Park Management,Parr FM,1
+I010,LS29 8TQ,Car Park Management,IdVerde,1
+I010,LS29 8TQ,Ground & Landscaping,J K & J Johnson Grounds Maintenance,3
+I010,LS29 8TQ,Ground & Landscaping,MSL,1
+I010,LS29 8TQ,Ground & Landscaping,Ground Control,1
+I011,PO33 1LP,Building Fabric Maintenance,MSL,3
+I013,TA19 9FE,Building Fabric Maintenance,MSL,4
+I013,TA19 9FE,Car Park Management,MSL,1
+I013,TA19 9FE,Ground & Landscaping,IdVerde,2
+I014,PO33 4NW,M&E Services,Metro Rod,1
+I017,S43 3HB,Ground & Landscaping,UBS,1
+I017,S43 3HB,M&E Services,PTSG - Electrical Services,2
+J002,PA5 8PZ,Building Fabric Maintenance,MSL,3
+J002,PA5 8PZ,Cleaning,Rentokil,1
+J002,PA5 8PZ,Ground & Landscaping,IdVerde,1
+J002,PA5 8PZ,M&E Services,Metro Rod,5
+J002,PA5 8PZ,M&E Services,RJ Lifts,2
+J002,PA5 8PZ,M&E Services,MSL,1
+J002,PA5 8PZ,Security,Marlowe,2
+K002,TQ12 5DJ,Building Fabric Maintenance,MSL,3
+K002,TQ12 5DJ,Building Fabric Maintenance,NSS Maintenance,1
+K002,TQ12 5DJ,Ground & Landscaping,Metro Rod,1
+K003,DY6 9HS,Building Fabric Maintenance,NSS Maintenance,5
+K003,DY6 9HS,Building Fabric Maintenance,MSL,2
+K003,DY6 9HS,Building Fabric Maintenance,All Round Security,1
+K003,DY6 9HS,Building Fabric Maintenance,Dorma Kaba,1
+K003,DY6 9HS,Building Fabric Maintenance,IdVerde,1
+K003,DY6 9HS,Car Park Management,All Round Security,2
+K003,DY6 9HS,Car Park Management,Dorma Kaba,1
+K003,DY6 9HS,M&E Services,Dorma Kaba,2
+K008,HD8 0SJ,Building Fabric Maintenance,HFL Building Solutions,6
+K008,HD8 0SJ,Emergency & Fire Safety Systems,MSL,2
+K008,HD8 0SJ,Ground & Landscaping,Ground Control,4
+K008,HD8 0SJ,M&E Services,Arrow Industrial,3
+K008,HD8 0SJ,M&E Services,Aqualytix,1
+K008,HD8 0SJ,M&E Services,RJ Lifts,1
+K009,KA1 2DL,Building Fabric Maintenance,NSS Maintenance,2
+K009,KA1 2DL,Building Fabric Maintenance,MSL,1
+K009,KA1 2DL,M&E Services,GKR Facilities Services (Scotland),3
+K009,KA1 2DL,M&E Services,RJ Lifts,3
+K009,KA1 2DL,M&E Services,Aqualytix,2
+K013,LE8 0LG,Building Fabric Maintenance,NSS Maintenance,2
+K013,LE8 0LG,Building Fabric Maintenance,MSL,2
+K013,LE8 0LG,Building Fabric Maintenance,IdVerde,1
+K013,LE8 0LG,Ground & Landscaping,Metro Rod,3
+K013,LE8 0LG,Ground & Landscaping,IdVerde,2
+K013,LE8 0LG,Ground & Landscaping,Rentokil,1
+K013,LE8 0LG,Ground & Landscaping,Ground Control,1
+K013,LE8 0LG,M&E Services,MSL,7
+K013,LE8 0LG,M&E Services,Arrow Industrial,1
+K013,LE8 0LG,M&E Services,Metro Rod,1
+K016,TN23 3ED,Building Fabric Maintenance,Parr FM,2
+K016,TN23 3ED,Building Fabric Maintenance,NSS Maintenance,1
+K016,TN23 3ED,Car Park Management,Metro Rod,3
+K016,TN23 3ED,M&E Services,Metro Rod,1
+K017,BD20 7LG,Car Park Management,Parr FM,2
+K017,BD20 7LG,Ground & Landscaping,Parr FM,2
+K018,SG3 6ER,Building Fabric Maintenance,NSS Maintenance,2
+K018,SG3 6ER,Cleaning,MSL,1
+K018,SG3 6ER,M&E Services,Metro Rod,6
+K018,SG3 6ER,M&E Services,MSL,2
+L018,LE67 4DR,Building Fabric Maintenance,Parr FM,3
+L018,LE67 4DR,Building Fabric Maintenance,NSS Maintenance,2
+L018,LE67 4DR,Building Fabric Maintenance,UBS,1
+L018,LE67 4DR,Building Fabric Maintenance,Arrow Industrial,1
+L018,LE67 4DR,Building Fabric Maintenance,Rentokil,1
+L018,LE67 4DR,Car Park Management,SB-FM,1
+L018,LE67 4DR,Car Park Management,IdVerde,1
+L018,LE67 4DR,Car Park Management,Parr FM,1
+L018,LE67 4DR,Ground & Landscaping,IdVerde,3
+L018,LE67 4DR,Ground & Landscaping,Parr FM,1
+L018,LE67 4DR,M&E Services,UBS,1
+L023,LS14 1HX,Building Fabric Maintenance,NSS Maintenance,4
+L023,LS14 1HX,Building Fabric Maintenance,SB-FM,1
+L023,LS14 1HX,Building Fabric Maintenance,MSL,1
+L023,LS14 1HX,Car Park Management,Arrow Industrial,1
+L023,LS14 1HX,Emergency & Fire Safety Systems,Marlowe,2
+L023,LS14 1HX,Ground & Landscaping,MSL,2
+L023,LS14 1HX,Ground & Landscaping,J K & J Johnson Grounds Maintenance,1
+L023,LS14 1HX,M&E Services,RJ Lifts,2
+L023,LS14 1HX,M&E Services,PTSG - Electrical Services,1
+L023,LS14 1HX,M&E Services,Metro Rod,1
+L023,LS14 1HX,M&E Services,HFL Building Solutions,1
+L023,LS14 1HX,Security,Arrow Industrial,3
+L023,LS14 1HX,Security,Marlowe,2
+L030,L14 4ED,Building Fabric Maintenance,HFL Building Solutions,4
+L030,L14 4ED,Emergency & Fire Safety Systems,HFL Building Solutions,1
+L030,L14 4ED,Emergency & Fire Safety Systems,Marlowe,1
+L030,L14 4ED,Ground & Landscaping,HFL Building Solutions,1
+L030,L14 4ED,M&E Services,HFL Building Solutions,3
+L030,L14 4ED,M&E Services,SB-FM,1
+L030,L14 4ED,Security,Marlowe,1
+L041,LS16 6FR,Building Fabric Maintenance,Parr FM,6
+L041,LS16 6FR,Building Fabric Maintenance,NSS Maintenance,2
+L041,LS16 6FR,Building Fabric Maintenance,UBS,2
+L041,LS16 6FR,Building Fabric Maintenance,HFL Building Solutions,1
+L041,LS16 6FR,Car Park Management,HFL Building Solutions,1
+L041,LS16 6FR,Emergency & Fire Safety Systems,Marlowe,1
+L041,LS16 6FR,M&E Services,HFL Building Solutions,9
+L041,LS16 6FR,M&E Services,PTSG - Electrical Services,2
+L041,LS16 6FR,M&E Services,Arrow Industrial,2
+L041,LS16 6FR,M&E Services,Aqualytix,1
+L041,LS16 6FR,M&E Services,MSL,1
+L041,LS16 6FR,Security,Marlowe,1
+L044,SW17 7AW,Building Fabric Maintenance,MSL,1
+L044,SW17 7AW,Building Fabric Maintenance,UBS,1
+L044,SW17 7AW,Ground & Landscaping,IdVerde,2
+L044,SW17 7AW,Security,MSL,1
+L044,SW17 7AW,Security,Dorma Kaba,1
+L044,SW17 7AW,Security,Expert Access Solutions,1
+L044,SW17 7AW,Waste disposal,MSL,2
+L046,SW18 5AE,Cleaning,Rentokil,1
+L049,DE55 1LU,Building Fabric Maintenance,MSL,3
+L049,DE55 1LU,Building Fabric Maintenance,Franklin Infrastructure,1
+L049,DE55 1LU,M&E Services,Dorma Kaba,1
+L054,LE2 1XD,Building Fabric Maintenance,NSS Maintenance,4
+L054,LE2 1XD,Building Fabric Maintenance,IdVerde,2
+L054,LE2 1XD,Building Fabric Maintenance,Dorma Kaba,2
+L054,LE2 1XD,Building Fabric Maintenance,Parr FM,1
+L054,LE2 1XD,Building Fabric Maintenance,Metro Rod,1
+L054,LE2 1XD,Car Park Management,Dorma Kaba,1
+L054,LE2 1XD,Car Park Management,Parr FM,1
+L054,LE2 1XD,Ground & Landscaping,IdVerde,2
+L054,LE2 1XD,M&E Services,Metro Rod,4
+L054,LE2 1XD,M&E Services,UBS,2
+L054,LE2 1XD,M&E Services,Parr FM,2
+L054,LE2 1XD,M&E Services,IdVerde,1
+L054,LE2 1XD,Security,Parr FM,1
+L055,FY8 4GW,Building Fabric Maintenance,HFL Building Solutions,7
+L055,FY8 4GW,Building Fabric Maintenance,IdVerde,1
+L055,FY8 4GW,Building Fabric Maintenance,MSL,1
+L055,FY8 4GW,Car Park Management,Arrow Industrial,1
+L055,FY8 4GW,Car Park Management,HFL Building Solutions,1
+L055,FY8 4GW,Cleaning,SB-FM,1
+L055,FY8 4GW,Emergency & Fire Safety Systems,UBS,1
+L055,FY8 4GW,Ground & Landscaping,Metro Rod,1
+L055,FY8 4GW,M&E Services,HFL Building Solutions,2
+L055,FY8 4GW,M&E Services,Aqualytix,2
+L055,FY8 4GW,M&E Services,RJ Lifts,2
+L055,FY8 4GW,M&E Services,Metro Rod,1
+L055,FY8 4GW,Security,Arrow Industrial,1
+L056,DL8 5EP,Building Fabric Maintenance,Parr FM,3
+L056,DL8 5EP,Building Fabric Maintenance,NSS Maintenance,2
+L056,DL8 5EP,Building Fabric Maintenance,MSL,1
+L056,DL8 5EP,Ground & Landscaping,Ground Control,1
+L058,DH7 0LP,Building Fabric Maintenance,HFL Building Solutions,1
+L058,DH7 0LP,Building Fabric Maintenance,NSS Maintenance,1
+L058,DH7 0LP,M&E Services,HFL Building Solutions,7
+L058,DH7 0LP,M&E Services,Arrow Industrial,1
+L058,DH7 0LP,M&E Services,Aqualytix,1
+L069,LS17 5DT,Building Fabric Maintenance,NSS Maintenance,3
+L069,LS17 5DT,Building Fabric Maintenance,Parr FM,3
+L069,LS17 5DT,Ground & Landscaping,J K & J Johnson Grounds Maintenance,2
+L069,LS17 5DT,M&E Services,Metro Rod,6
+L069,LS17 5DT,M&E Services,Parr FM,1
+L081,SW16 6PX,M&E Services,RJ Lifts,9
+L081,SW16 6PX,M&E Services,Jacksons Lifts,1
+L083,W6 7EG,Building Fabric Maintenance,MSL,1
+L083,W6 7EG,M&E Services,UBS,1
+L084,LS11 8PN,Building Fabric Maintenance,PTSG - Access & Safety,1
+L084,LS11 8PN,M&E Services,HFL Building Solutions,6
+L084,LS11 8PN,M&E Services,RJ Lifts,2
+L084,LS11 8PN,M&E Services,Aqualytix,1
+L093,SA15 3JH,Building Fabric Maintenance,MSL,1
+L094,SA14 9DP,Building Fabric Maintenance,MSL,1
+L094,SA14 9DP,Car Park Management,MSL,1
+L094,SA14 9DP,Ground & Landscaping,MSL,2
+L095,N4 1TL ,M&E Services,Parr FM,1
+L098,WS13 7FA,Building Fabric Maintenance,MSL,3
+L098,WS13 7FA,Building Fabric Maintenance,NSS Maintenance,2
+L098,WS13 7FA,Car Park Management,MSL,3
+L098,WS13 7FA,Emergency & Fire Safety Systems,Marlowe,2
+L098,WS13 7FA,Ground & Landscaping,IdVerde,1
+L098,WS13 7FA,M&E Services,Metro Rod,1
+L098,WS13 7FA,Security,Marlowe,3
+L114,LS7 4HZ,Building Fabric Maintenance,HFL Building Solutions,4
+L114,LS7 4HZ,Building Fabric Maintenance,NSS Maintenance,3
+L114,LS7 4HZ,Building Fabric Maintenance,Parr FM,2
+L114,LS7 4HZ,Building Fabric Maintenance,MSL,1
+L114,LS7 4HZ,Emergency & Fire Safety Systems,HFL Building Solutions,1
+L114,LS7 4HZ,Emergency & Fire Safety Systems,Marlowe,1
+L114,LS7 4HZ,Ground & Landscaping,J K & J Johnson Grounds Maintenance,3
+L114,LS7 4HZ,Ground & Landscaping,HFL Building Solutions,2
+L114,LS7 4HZ,Ground & Landscaping,IdVerde,1
+L114,LS7 4HZ,Ground & Landscaping,Ground Control,1
+L114,LS7 4HZ,Ground & Landscaping,NSS Maintenance,1
+L114,LS7 4HZ,M&E Services,RJ Lifts,12
+L114,LS7 4HZ,M&E Services,HFL Building Solutions,11
+L114,LS7 4HZ,M&E Services,Arrow Industrial,4
+L114,LS7 4HZ,M&E Services,Metro Rod,2
+L114,LS7 4HZ,M&E Services,MSL,2
+L114,LS7 4HZ,M&E Services,Marlowe,1
+L114,LS7 4HZ,M&E Services,Parr FM,1
+L114,LS7 4HZ,Security,Marlowe,5
+L114,LS7 4HZ,Security,Arrow Industrial,2
+L118,LS6 2DP,Building Fabric Maintenance,MSL,3
+L118,LS6 2DP,Building Fabric Maintenance,HFL Building Solutions,2
+L118,LS6 2DP,Cleaning,HFL Building Solutions,1
+L118,LS6 2DP,Cleaning,Zest Recycling,1
+L118,LS6 2DP,Emergency & Fire Safety Systems,Marlowe,3
+L118,LS6 2DP,Emergency & Fire Safety Systems,Parr FM,2
+L118,LS6 2DP,Ground & Landscaping,IdVerde,3
+L118,LS6 2DP,Ground & Landscaping,J K & J Johnson Grounds Maintenance,2
+L118,LS6 2DP,Ground & Landscaping,Parr FM,1
+L118,LS6 2DP,Ground & Landscaping,Ground Control,1
+L118,LS6 2DP,M&E Services,RJ Lifts,4
+L118,LS6 2DP,M&E Services,Marlowe,2
+L118,LS6 2DP,M&E Services,Arrow Industrial,1
+L118,LS6 2DP,M&E Services,Parr FM,1
+L118,LS6 2DP,Security,Marlowe,5
+L118,LS6 2DP,Waste disposal,Zest Recycling,3
+L127,LS9 6AU,Building Fabric Maintenance,NSS Maintenance,2
+L127,LS9 6AU,Building Fabric Maintenance,Metro Rod,1
+L131,W1D 6AG,Building Fabric Maintenance,NSS Maintenance,4
+L131,W1D 6AG,Emergency & Fire Safety Systems,Marlowe,2
+L131,W1D 6AG,M&E Services,RJ Lifts,6
+L135,LS17 6PZ,Building Fabric Maintenance,MSL,2
+L135,LS17 6PZ,Ground & Landscaping,J K & J Johnson Grounds Maintenance,1
+L135,LS17 6PZ,M&E Services,Metro Rod,1
+M015,CR4 1BP,Building Fabric Maintenance,UBS,3
+M015,CR4 1BP,Building Fabric Maintenance,Parr FM,1
+M015,CR4 1BP,Emergency & Fire Safety Systems,Marlowe,2
+M015,CR4 1BP,Emergency & Fire Safety Systems,UBS,1
+M015,CR4 1BP,Ground & Landscaping,IdVerde,1
+M015,CR4 1BP,M&E Services,UBS,22
+M015,CR4 1BP,M&E Services,MSL,2
+M015,CR4 1BP,M&E Services,Aqualytix,1
+M015,CR4 1BP,M&E Services,Metro Rod,1
+M015,CR4 1BP,Waste disposal,Zest Recycling,1
+M031,SK11 6JL,Building Fabric Maintenance,HFL Building Solutions,13
+M031,SK11 6JL,Building Fabric Maintenance,NSS Maintenance,9
+M031,SK11 6JL,Building Fabric Maintenance,Arrow Industrial,2
+M031,SK11 6JL,Building Fabric Maintenance,Marlowe,2
+M031,SK11 6JL,Building Fabric Maintenance,Parr FM,2
+M031,SK11 6JL,Building Fabric Maintenance,UK Gutters,1
+M031,SK11 6JL,Car Park Management,Parr FM,7
+M031,SK11 6JL,Car Park Management,Metro Rod,1
+M031,SK11 6JL,Car Park Management,HFL Building Solutions,1
+M031,SK11 6JL,Car Park Management,Arrow Industrial,1
+M031,SK11 6JL,Cleaning,HFL Building Solutions,1
+M031,SK11 6JL,Cleaning,IdVerde,1
+M031,SK11 6JL,Cleaning,SB-FM,1
+M031,SK11 6JL,Emergency & Fire Safety Systems,Marlowe,10
+M031,SK11 6JL,Emergency & Fire Safety Systems,HFL Building Solutions,1
+M031,SK11 6JL,Emergency & Fire Safety Systems,Dorma Kaba,1
+M031,SK11 6JL,Ground & Landscaping,HFL Building Solutions,2
+M031,SK11 6JL,Ground & Landscaping,IdVerde,1
+M031,SK11 6JL,M&E Services,HFL Building Solutions,35
+M031,SK11 6JL,M&E Services,Metro Rod,13
+M031,SK11 6JL,M&E Services,Parr FM,2
+M031,SK11 6JL,M&E Services,Arrow Industrial,2
+M031,SK11 6JL,M&E Services,B-Engineering,2
+M031,SK11 6JL,M&E Services,Aqualytix,2
+M031,SK11 6JL,M&E Services,RJ Lifts,2
+M035,SA73 2JW,Building Fabric Maintenance,NSS Maintenance,2
+M035,SA73 2JW,Building Fabric Maintenance,MSL,1
+M035,SA73 2JW,Ground & Landscaping,IdVerde,2
+M035,SA73 2JW,M&E Services,MSL,1
+M037,MK4 4EN,Building Fabric Maintenance,MSL,4
+M037,MK4 4EN,Building Fabric Maintenance,NSS Maintenance,2
+M038,M14 6WP,Building Fabric Maintenance,Parr FM,2
+M038,M14 6WP,Car Park Management,Arrow Industrial,2
+M038,M14 6WP,Car Park Management,Parr FM,1
+M038,M14 6WP,Ground & Landscaping,IdVerde,1
+M040,HP21 8TR,Car Park Management,Parr FM,2
+M040,HP21 8TR,M&E Services,Metro Rod,2
+M042,M41 7WJ,Building Fabric Maintenance,NSS Maintenance,4
+M042,M41 7WJ,Building Fabric Maintenance,MSL,2
+M042,M41 7WJ,Car Park Management,Arrow Industrial,3
+M042,M41 7WJ,Car Park Management,MSL,1
+M042,M41 7WJ,M&E Services,Metro Rod,3
+M042,M41 7WJ,M&E Services,IdVerde,1
+M047,ME16 8RL,Building Fabric Maintenance,UK Gutters,3
+M047,ME16 8RL,Building Fabric Maintenance,Expert Access Solutions,1
+M047,ME16 8RL,Building Fabric Maintenance,MSL,1
+M047,ME16 8RL,Ground & Landscaping,Metro Rod,1
+M047,ME16 8RL,M&E Services,Expert Access Solutions,5
+M047,ME16 8RL,M&E Services,Metro Rod,1
+M050,HD3 4LB,Building Fabric Maintenance,NSS Maintenance,2
+M050,HD3 4LB,Building Fabric Maintenance,Parr FM,1
+M050,HD3 4LB,M&E Services,Arrow Industrial,5
+M050,HD3 4LB,M&E Services,UBS,3
+M050,HD3 4LB,M&E Services,All Round Security,2
+M050,HD3 4LB,M&E Services,MSL,1
+M050,HD3 4LB,Security,Arrow Industrial,1
+M051,TF9 3AL,Building Fabric Maintenance,NSS Maintenance,1
+M051,TF9 3AL,Car Park Management,MSL,1
+M051,TF9 3AL,Security,Arrow Industrial,2
+M052,TS1 3QY,Building Fabric Maintenance,Marlowe,1
+M052,TS1 3QY,Building Fabric Maintenance,HFL Building Solutions,1
+M052,TS1 3QY,Cleaning,Rentokil,3
+M052,TS1 3QY,Cleaning,J K & J Johnson Grounds Maintenance,1
+M052,TS1 3QY,Emergency & Fire Safety Systems,Marlowe,5
+M052,TS1 3QY,Emergency & Fire Safety Systems,HFL Building Solutions,2
+M052,TS1 3QY,Ground & Landscaping,Metro Rod,2
+M052,TS1 3QY,M&E Services,HFL Building Solutions,49
+M052,TS1 3QY,M&E Services,Metro Rod,4
+M052,TS1 3QY,M&E Services,RJ Lifts,2
+M052,TS1 3QY,M&E Services,B-Engineering,2
+M052,TS1 3QY,M&E Services,UBS,1
+M052,TS1 3QY,M&E Services,Aqualytix,1
+M052,TS1 3QY,M&E Services,MSL,1
+M052,TS1 3QY,Security,Marlowe,4
+M052,TS1 3QY,Waste disposal,Oltec,1
+M053,M41 8AA,Building Fabric Maintenance,UBS,3
+M053,M41 8AA,Building Fabric Maintenance,NSS Maintenance,2
+M053,M41 8AA,Car Park Management,Parr FM,1
+M053,M41 8AA,Car Park Management,All Round Security,1
+M053,M41 8AA,Car Park Management,Dorma Kaba,1
+M053,M41 8AA,Emergency & Fire Safety Systems,UBS,2
+M053,M41 8AA,Ground & Landscaping,UBS,1
+M053,M41 8AA,Ground & Landscaping,Parr FM,1
+M055,SR7 9AB,Building Fabric Maintenance,NSS Maintenance,2
+M055,SR7 9AB,Building Fabric Maintenance,MSL,1
+M061,M12 5JE,Building Fabric Maintenance,NSS Maintenance,4
+M061,M12 5JE,Building Fabric Maintenance,MSL,1
+M061,M12 5JE,Cleaning,IdVerde,1
+M061,M12 5JE,Ground & Landscaping,Ground Control,1
+M061,M12 5JE,Ground & Landscaping,IdVerde,1
+M070,WA7 6ES,M&E Services,HFL Building Solutions,1
+M070,WA7 6ES,M&E Services,Aqualytix,1
+M077,SO41 0PG ,Building Fabric Maintenance,NSS Maintenance,1
+M078,DT9 5FH,Ground & Landscaping,Expert Access Solutions,2
+M078,DT9 5FH,Ground & Landscaping,IdVerde,1
+M078,DT9 5FH,Ground & Landscaping,MSL,1
+M080,LE67 9WU,Building Fabric Maintenance,UBS,2
+M080,LE67 9WU,Building Fabric Maintenance,MSL,2
+M082,CT9 1QY,Building Fabric Maintenance,NSS Maintenance,6
+M083,CT9 3NR,Building Fabric Maintenance,NSS Maintenance,2
+M083,CT9 3NR,M&E Services,Metro Rod,3
+M086,WR14 2GP,Building Fabric Maintenance,UBS,33
+M086,WR14 2GP,Building Fabric Maintenance,Expert Access Solutions,2
+M086,WR14 2GP,Building Fabric Maintenance,NSS Maintenance,2
+M086,WR14 2GP,Building Fabric Maintenance,SB-FM,2
+M086,WR14 2GP,Building Fabric Maintenance,PTSG - Access & Safety,1
+M086,WR14 2GP,Building Fabric Maintenance,Dorma Kaba,1
+M086,WR14 2GP,Building Fabric Maintenance,MSL,1
+M086,WR14 2GP,Cleaning,SB-FM,1
+M086,WR14 2GP,Emergency & Fire Safety Systems,Marlowe,3
+M086,WR14 2GP,M&E Services,UBS,15
+M086,WR14 2GP,M&E Services,HCS WATER TREATMENT,2
+M086,WR14 2GP,M&E Services,Expert Access Solutions,1
+M086,WR14 2GP,M&E Services,RJ Lifts,1
+M086,WR14 2GP,M&E Services,Aqualytix,1
+M086,WR14 2GP,M&E Services,Marlowe,1
+M086,WR14 2GP,M&E Services,Metro Rod,1
+M086,WR14 2GP,M&E Services,MSL,1
+M086,WR14 2GP,M&E Services,Rentokil,1
+M086,WR14 2GP,M&E Services,Dorma Kaba,1
+M086,WR14 2GP,Security,Marlowe,7
+M086,WR14 2GP,Security,UBS,1
+M089,PE15 9BF,Building Fabric Maintenance,MSL,1
+M089,PE15 9BF,M&E Services,Metro Rod,1
+M091,MK15 9ET,Ground & Landscaping,IdVerde,1
+M097,MK8 9HN,Building Fabric Maintenance,NSS Maintenance,3
+M098,DE4 5BP,Building Fabric Maintenance,Parr FM,1
+M098,DE4 5BP,Building Fabric Maintenance,MSL,1
+M098,DE4 5BP,Car Park Management,MSL,1
+M098,DE4 5BP,Ground & Landscaping,MSL,2
+M098,DE4 5BP,Ground & Landscaping,Ground Control,1
+N002,TS3 6AL,Building Fabric Maintenance,Arrow Industrial,4
+N002,TS3 6AL,Building Fabric Maintenance,HFL Building Solutions,4
+N002,TS3 6AL,Building Fabric Maintenance,MSL,1
+N002,TS3 6AL,Building Fabric Maintenance,NSS Maintenance,1
+N002,TS3 6AL,Building Fabric Maintenance,Rentokil,1
+N002,TS3 6AL,Cleaning,Rentokil,1
+N002,TS3 6AL,Emergency & Fire Safety Systems,HFL Building Solutions,1
+N002,TS3 6AL,Emergency & Fire Safety Systems,Arrow Industrial,1
+N002,TS3 6AL,Ground & Landscaping,HFL Building Solutions,1
+N002,TS3 6AL,Ground & Landscaping,MSL,1
+N002,TS3 6AL,M&E Services,HFL Building Solutions,23
+N002,TS3 6AL,M&E Services,RJ Lifts,14
+N002,TS3 6AL,M&E Services,Arrow Industrial,1
+N002,TS3 6AL,M&E Services,Aqualytix,1
+N002,TS3 6AL,M&E Services,Metro Rod,1
+N002,TS3 6AL,Security,Arrow Industrial,8
+N002,TS3 6AL,Security,Marlowe,1
+N002,TS3 6AL,Waste disposal,J K & J Johnson Grounds Maintenance,1
+N005,CW8 4LF,Building Fabric Maintenance,UK Gutters,1
+N005,CW8 4LF,Car Park Management,Parr FM,5
+N005,CW8 4LF,Ground & Landscaping,IdVerde,2
+N005,CW8 4LF,Ground & Landscaping,MSL,1
+N005,CW8 4LF,M&E Services,Arrow Industrial,2
+N005,CW8 4LF,M&E Services,Parr FM,1
+N005,CW8 4LF,M&E Services,MSL,1
+N008,CW5 5NX,Building Fabric Maintenance,NSS Maintenance,3
+N008,CW5 5NX,Building Fabric Maintenance,Parr FM,2
+N008,CW5 5NX,Car Park Management,Arrow Industrial,1
+N008,CW5 5NX,Ground & Landscaping,Rentokil,1
+N008,CW5 5NX,Ground & Landscaping,Whitesides,1
+N008,CW5 5NX,M&E Services,Metro Rod,1
+N008,CW5 5NX,M&E Services,Arrow Industrial,1
+N008,CW5 5NX,Security,Arrow Industrial,1
+N012,KT3 3TX,Building Fabric Maintenance,Parr FM,1
+N012,KT3 3TX,Building Fabric Maintenance,Dorma Kaba,1
+N013,NE6 1SG,M&E Services,Metro Rod,2
+N014,NE5 1LJ,Building Fabric Maintenance,Parr FM,12
+N014,NE5 1LJ,Building Fabric Maintenance,UBS,4
+N014,NE5 1LJ,Building Fabric Maintenance,MSL,4
+N014,NE5 1LJ,Building Fabric Maintenance,HFL Building Solutions,4
+N014,NE5 1LJ,Building Fabric Maintenance,NSS Maintenance,4
+N014,NE5 1LJ,Car Park Management,Parr FM,1
+N014,NE5 1LJ,Cleaning,SB-FM,1
+N014,NE5 1LJ,Ground & Landscaping,J K & J Johnson Grounds Maintenance,1
+N014,NE5 1LJ,M&E Services,HFL Building Solutions,6
+N014,NE5 1LJ,M&E Services,RJ Lifts,3
+N014,NE5 1LJ,M&E Services,Parr FM,2
+N014,NE5 1LJ,M&E Services,Metro Rod,1
+N017,B31 5ER,Building Fabric Maintenance,NSS Maintenance,2
+N017,B31 5ER,Building Fabric Maintenance,LCM Group,1
+N017,B31 5ER,Ground & Landscaping,IdVerde,1
+N021,HA6 2RG,Building Fabric Maintenance,MSL,3
+N021,HA6 2RG,Building Fabric Maintenance,UK Gutters,3
+N021,HA6 2RG,Building Fabric Maintenance,Parr FM,2
+N021,HA6 2RG,Building Fabric Maintenance,Dorma Kaba,2
+N021,HA6 2RG,Car Park Management,UBS,6
+N021,HA6 2RG,Car Park Management,MSL,2
+N021,HA6 2RG,Cleaning,UBS,2
+N021,HA6 2RG,Cleaning,Zest Recycling,1
+N021,HA6 2RG,Ground & Landscaping,UBS,7
+N021,HA6 2RG,Ground & Landscaping,IdVerde,4
+N021,HA6 2RG,Ground & Landscaping,MSL,4
+N021,HA6 2RG,Ground & Landscaping,Ground Control,2
+N021,HA6 2RG,Ground & Landscaping,Parr FM,1
+N023,NG6 8AQ,Car Park Management,Dorma Kaba,1
+N023,NG6 8AQ,Car Park Management,Expert Access Solutions,1
+N023,NG6 8AQ,Ground & Landscaping,MSL,1
+N033,NG4 2FN,Building Fabric Maintenance,Parr FM,3
+N033,NG4 2FN,Building Fabric Maintenance,NSS Maintenance,3
+N033,NG4 2FN,Building Fabric Maintenance,MSL,1
+N033,NG4 2FN,Ground & Landscaping,Metro Rod,2
+N034,SA67 7AA,Cleaning,SB-FM,1
+N034,SA67 7AA,Cleaning,Zest Recycling,1
+N034,SA67 7AA,Ground & Landscaping,IdVerde,1
+N034,SA67 7AA,M&E Services,MSL,5
+N034,SA67 7AA,M&E Services,Metro Rod,3
+N034,SA67 7AA,M&E Services,UBS,3
+N034,SA67 7AA,M&E Services,Dorma Kaba,1
+N034,SA67 7AA,M&E Services,RJ Lifts,1
+N034,SA67 7AA,Security,Marlowe,2
+N034,SA67 7AA,Security,Securigroup,1
+N036,NG5 5GU,Building Fabric Maintenance,UBS,5
+N036,NG5 5GU,Building Fabric Maintenance,Dorma Kaba,1
+N036,NG5 5GU,Cleaning,SB-FM,1
+N036,NG5 5GU,Emergency & Fire Safety Systems,Marlowe,4
+N036,NG5 5GU,Ground & Landscaping,UBS,1
+N036,NG5 5GU,M&E Services,UBS,15
+N036,NG5 5GU,M&E Services,RJ Lifts,1
+N036,NG5 5GU,Security,Marlowe,1
+N036,NG5 5GU,Waste disposal,Zest Recycling,1
+O003,LL13 0ED,Building Fabric Maintenance,NSS Maintenance,2
+O003,LL13 0ED,Building Fabric Maintenance,Parr FM,1
+O008,LE15 6NT,Building Fabric Maintenance,MSL,1
+O008,LE15 6NT,Ground & Landscaping,Parr FM,5
+O008,LE15 6NT,Ground & Landscaping,Franklin Infrastructure,1
+O008,LE15 6NT,Ground & Landscaping,IdVerde,1
+O008,LE15 6NT,M&E Services,MSL,4
+O009,OL1 2PD,Building Fabric Maintenance,MSL,1
+O009,OL1 2PD,Building Fabric Maintenance,Parr FM,1
+O009,OL1 2PD,Car Park Management,Arrow Industrial,1
+O009,OL1 2PD,Ground & Landscaping,Parr FM,2
+O009,OL1 2PD,Ground & Landscaping,IdVerde,1
+O009,OL1 2PD,M&E Services,RJ Lifts,2
+O009,OL1 2PD,M&E Services,Metro Rod,2
+O009,OL1 2PD,M&E Services,Arrow Industrial,1
+O011,RH8 0BQ,Building Fabric Maintenance,Parr FM,5
+O011,RH8 0BQ,Building Fabric Maintenance,Franklin Infrastructure,1
+O011,RH8 0BQ,Car Park Management,Franklin Infrastructure,1
+P007,PE1 2QP,Building Fabric Maintenance,Parr FM,1
+P007,PE1 2QP,Building Fabric Maintenance,UBS,1
+P007,PE1 2QP,Car Park Management,MSL,1
+P007,PE1 2QP,Emergency & Fire Safety Systems,UBS,2
+P007,PE1 2QP,Emergency & Fire Safety Systems,Marlowe,1
+P007,PE1 2QP,M&E Services,UBS,6
+P007,PE1 2QP,M&E Services,MSL,2
+P007,PE1 2QP,M&E Services,Expert Access Solutions,1
+P007,PE1 2QP,M&E Services,Aqualytix,1
+P008,WF8 1NF,Building Fabric Maintenance,UBS,2
+P008,WF8 1NF,Building Fabric Maintenance,NSS Maintenance,2
+P008,WF8 1NF,Building Fabric Maintenance,Parr FM,1
+P008,WF8 1NF,Car Park Management,Parr FM,2
+P008,WF8 1NF,Ground & Landscaping,Ground Control,2
+P008,WF8 1NF,Ground & Landscaping,IdVerde,2
+P008,WF8 1NF,Ground & Landscaping,Arrow Industrial,1
+P008,WF8 1NF,M&E Services,HFL Building Solutions,2
+P014,NP4 6DH,M&E Services,B-Engineering,2
+P014,NP4 6DH,M&E Services,MSL,2
+P014,NP4 6DH,M&E Services,RJ Lifts,2
+P015,CF39 0LD,M&E Services,Dorma Kaba,1
+P019,WF8 1SU,Car Park Management,MSL,2
+P019,WF8 1SU,Ground & Landscaping,Ground Control,1
+P019,WF8 1SU,Ground & Landscaping,IdVerde,1
+P021,CF36 5PF,M&E Services,MSL,2
+P028,BH14 8EE,Building Fabric Maintenance,MSL,4
+P028,BH14 8EE,Building Fabric Maintenance,Marlowe,2
+P028,BH14 8EE,Building Fabric Maintenance,UBS,1
+P028,BH14 8EE,Cleaning,MSL,2
+P028,BH14 8EE,Cleaning,Rentokil,1
+P028,BH14 8EE,Ground & Landscaping,MSL,2
+P028,BH14 8EE,M&E Services,MSL,1
+P029,BH15 2PG,Building Fabric Maintenance,MSL,1
+P031,SA72 6HL,Building Fabric Maintenance,MSL,1
+P031,SA72 6HL,Building Fabric Maintenance,Parr FM,1
+P031,SA72 6HL,Ground & Landscaping,MSL,2
+R013,B98 9AA,Security,UBS,2
+R015,NN10 0GP,Building Fabric Maintenance,UBS,4
+R015,NN10 0GP,Building Fabric Maintenance,MSL,1
+R015,NN10 0GP,Building Fabric Maintenance,Dorma Kaba,1
+R015,NN10 0GP,Cleaning,SB-FM,1
+R015,NN10 0GP,Emergency & Fire Safety Systems,UBS,2
+R015,NN10 0GP,Emergency & Fire Safety Systems,Marlowe,2
+R015,NN10 0GP,M&E Services,UBS,27
+R015,NN10 0GP,M&E Services,Metro Rod,2
+R015,NN10 0GP,M&E Services,Dorma Kaba,1
+R015,NN10 0GP,M&E Services,Aqualytix,1
+R015,NN10 0GP,M&E Services,RJ Lifts,1
+R015,NN10 0GP,Waste disposal,Zest Recycling,2
+R019,NP10 9DU,Building Fabric Maintenance,MSL,1
+R019,NP10 9DU,Ground & Landscaping,IdVerde,1
+R023,LL18 4HZ,Building Fabric Maintenance,NSS Maintenance,1
+R023,LL18 4HZ,M&E Services,Metro Rod,1
+R024,CT11 8AD,Building Fabric Maintenance,MSL,3
+R024,CT11 8AD,Building Fabric Maintenance,Parr FM,2
+R024,CT11 8AD,Car Park Management,MSL,5
+R024,CT11 8AD,Cleaning,Rentokil,1
+R024,CT11 8AD,Ground & Landscaping,Parr FM,2
+R024,CT11 8AD,Ground & Landscaping,IdVerde,1
+R033,TS11 7BL,Building Fabric Maintenance,MSL,4
+R033,TS11 7BL,Building Fabric Maintenance,NSS Maintenance,2
+R033,TS11 7BL,Building Fabric Maintenance,All Round Security,1
+R033,TS11 7BL,Building Fabric Maintenance,Dorma Kaba,1
+R033,TS11 7BL,M&E Services,Metro Rod,1
+S031,SO19 9GH,Building Fabric Maintenance,UBS,3
+S031,SO19 9GH,Building Fabric Maintenance,NSS Maintenance,3
+S031,SO19 9GH,Building Fabric Maintenance,MSL,3
+S031,SO19 9GH,Building Fabric Maintenance,Parr FM,2
+S031,SO19 9GH,Emergency & Fire Safety Systems,MSL,1
+S031,SO19 9GH,Ground & Landscaping,IdVerde,2
+S031,SO19 9GH,M&E Services,MSL,4
+S031,SO19 9GH,M&E Services,Metro Rod,2
+S031,SO19 9GH,M&E Services,UBS,1
+S031,SO19 9GH,Security,Marlowe,2
+S031,SO19 9GH,Waste disposal,Oltec,1
+S035,SN3 2EZ,Building Fabric Maintenance,NSS Maintenance,6
+S035,SN3 2EZ,Building Fabric Maintenance,MSL,1
+S035,SN3 2EZ,Emergency & Fire Safety Systems,Marlowe,1
+S035,SN3 2EZ,M&E Services,UBS,4
+S035,SN3 2EZ,M&E Services,MSL,2
+S035,SN3 2EZ,M&E Services,Aqualytix,1
+S046,YO11 3LJ,Building Fabric Maintenance,NSS Maintenance,5
+S046,YO11 3LJ,Building Fabric Maintenance,Parr FM,3
+S046,YO11 3LJ,Building Fabric Maintenance,MSL,1
+S046,YO11 3LJ,Car Park Management,Arrow Industrial,3
+S047,YO12 7AS,Building Fabric Maintenance,MSL,2
+S047,YO12 7AS,Building Fabric Maintenance,NSS Maintenance,2
+S047,YO12 7AS,Car Park Management,Arrow Industrial,2
+S047,YO12 7AS,Car Park Management,Marlowe,1
+S047,YO12 7AS,Ground & Landscaping,PTSG - Electrical Services,1
+S049,PO5 1AT,Building Fabric Maintenance,NSS Maintenance,2
+S049,PO5 1AT,Ground & Landscaping,MSL,1
+S051,TW19 7HE,Building Fabric Maintenance,UBS,5
+S051,TW19 7HE,Building Fabric Maintenance,Marlowe,1
+S051,TW19 7HE,Building Fabric Maintenance,MSL,1
+S051,TW19 7HE,Car Park Management,UBS,2
+S051,TW19 7HE,Emergency & Fire Safety Systems,UBS,3
+S051,TW19 7HE,Emergency & Fire Safety Systems,Marlowe,3
+S051,TW19 7HE,M&E Services,UBS,18
+S051,TW19 7HE,M&E Services,RJ Lifts,5
+S051,TW19 7HE,M&E Services,Aqualytix,1
+S051,TW19 7HE,M&E Services,Parr FM,1
+S051,TW19 7HE,Security,Marlowe,2
+S052,BD20 0DG,Car Park Management,Parr FM,3
+S058,CO10 2DZ,Building Fabric Maintenance,NSS Maintenance,7
+S058,CO10 2DZ,Building Fabric Maintenance,MSL,3
+S058,CO10 2DZ,M&E Services,UBS,1
+S059,SM2 5TL,Cleaning,Rentokil,1
+S060,YO11 1UB,Building Fabric Maintenance,HFL Building Solutions,4
+S060,YO11 1UB,Building Fabric Maintenance,MSL,4
+S060,YO11 1UB,Building Fabric Maintenance,NSS Maintenance,4
+S060,YO11 1UB,Building Fabric Maintenance,UBS,1
+S060,YO11 1UB,Building Fabric Maintenance,Parr FM,1
+S060,YO11 1UB,Car Park Management,Arrow Industrial,4
+S060,YO11 1UB,Emergency & Fire Safety Systems,HFL Building Solutions,1
+S060,YO11 1UB,Ground & Landscaping,J K & J Johnson Grounds Maintenance,3
+S060,YO11 1UB,Ground & Landscaping,HFL Building Solutions,1
+S060,YO11 1UB,M&E Services,RJ Lifts,4
+S060,YO11 1UB,M&E Services,Arrow Industrial,4
+S060,YO11 1UB,M&E Services,Aqualytix,2
+S060,YO11 1UB,M&E Services,HFL Building Solutions,1
+S060,YO11 1UB,Security,Marlowe,2
+S061,DL10 6HB,Building Fabric Maintenance,NSS Maintenance,2
+S061,DL10 6HB,Building Fabric Maintenance,Dorma Kaba,1
+S061,DL10 6HB,Ground & Landscaping,Ground Control,1
+S061,DL10 6HB,Ground & Landscaping,J K & J Johnson Grounds Maintenance,1
+S062,HD8 8DJ,Building Fabric Maintenance,MSL,3
+S062,HD8 8DJ,Car Park Management,MSL,2
+S062,HD8 8DJ,Car Park Management,Parr FM,2
+S062,HD8 8DJ,Ground & Landscaping,Ground Control,3
+S062,HD8 8DJ,Ground & Landscaping,MSL,2
+S062,HD8 8DJ,Ground & Landscaping,Parr FM,2
+S062,HD8 8DJ,Ground & Landscaping,J K & J Johnson Grounds Maintenance,1
+S062,HD8 8DJ,Ground & Landscaping,IdVerde,1
+S062,HD8 8DJ,M&E Services,Arrow Industrial,7
+S062,HD8 8DJ,M&E Services,RJ Lifts,3
+S064,DN5 8DA,Building Fabric Maintenance,NSS Maintenance,4
+S064,DN5 8DA,M&E Services,Metro Rod,2
+S064,DN5 8DA,M&E Services,Arrow Industrial,2
+S065,SY3 7QR,Building Fabric Maintenance,MSL,4
+S065,SY3 7QR,Building Fabric Maintenance,NSS Maintenance,3
+S065,SY3 7QR,Car Park Management,MSL,3
+S065,SY3 7QR,M&E Services,MSL,1
+S067,S20 6PD,Ground & Landscaping,Ground Control,1
+S070,SY1 4RQ,Building Fabric Maintenance,NSS Maintenance,3
+S070,SY1 4RQ,Building Fabric Maintenance,MSL,2
+S070,SY1 4RQ,Building Fabric Maintenance,All Round Security,1
+S070,SY1 4RQ,Car Park Management,All Round Security,1
+S070,SY1 4RQ,Car Park Management,Dorma Kaba,1
+S070,SY1 4RQ,Cleaning,Rentokil,2
+S070,SY1 4RQ,Cleaning,Zest Recycling,1
+S070,SY1 4RQ,Emergency & Fire Safety Systems,Marlowe,5
+S070,SY1 4RQ,Ground & Landscaping,IdVerde,2
+S070,SY1 4RQ,Ground & Landscaping,Ground Control,1
+S070,SY1 4RQ,M&E Services,RJ Lifts,3
+S070,SY1 4RQ,M&E Services,MSL,3
+S070,SY1 4RQ,M&E Services,Metro Rod,2
+S070,SY1 4RQ,Security,Marlowe,2
+S070,SY1 4RQ,Security,Dorma Kaba,2
+S070,SY1 4RQ,Security,Arrow Industrial,1
+S071,B90 4DD,Ground & Landscaping,IdVerde,2
+S071,B90 4DD,Ground & Landscaping,Parr FM,1
+S071,B90 4DD,M&E Services,Metro Rod,1
+S071,B90 4DD,Security,Arrow Industrial,1
+S071,B90 4DD,Security,Marlowe,1
+S072,S2 5FX,Cleaning,Metro Rod,2
+S072,S2 5FX,Ground & Landscaping,Ground Control,1
+S072,S2 5FX,M&E Services,HFL Building Solutions,1
+S073,WF9 3AP,Building Fabric Maintenance,NSS Maintenance,6
+S073,WF9 3AP,Building Fabric Maintenance,Parr FM,3
+S073,WF9 3AP,Building Fabric Maintenance,JSM Building Solutions,1
+S073,WF9 3AP,Building Fabric Maintenance,Dorma Kaba,1
+S073,WF9 3AP,Car Park Management,Rentokil,1
+S073,WF9 3AP,Ground & Landscaping,Ground Control,2
+S073,WF9 3AP,M&E Services,HFL Building Solutions,5
+S073,WF9 3AP,M&E Services,RJ Lifts,3
+S073,WF9 3AP,M&E Services,B-Engineering,2
+S073,WF9 3AP,M&E Services,Parr FM,1
+S073,WF9 3AP,M&E Services,Aqualytix,1
+S073,WF9 3AP,M&E Services,Arrow Industrial,1
+S073,WF9 3AP,Security,Marlowe,1
+S076,PR9 9XP,Building Fabric Maintenance,Arrow Industrial,2
+S076,PR9 9XP,Car Park Management,MSL,1
+S076,PR9 9XP,Cleaning,IdVerde,1
+S076,PR9 9XP,Emergency & Fire Safety Systems,Arrow Industrial,1
+S076,PR9 9XP,Ground & Landscaping,IdVerde,1
+S085,SA1 6TD,Building Fabric Maintenance,MSL,4
+S085,SA1 6TD,Car Park Management,MSL,1
+S085,SA1 6TD,Ground & Landscaping,MSL,2
+S085,SA1 6TD,M&E Services,MSL,1
+S095,S35 1RN,Building Fabric Maintenance,NSS Maintenance,3
+S096,S35 4NF,Building Fabric Maintenance,NSS Maintenance,1
+S100,BA16 0ET,M&E Services,Metro Rod,2
+S101,PL25 4EG,Building Fabric Maintenance,UK Gutters,3
+S101,PL25 4EG,Building Fabric Maintenance,NSS Maintenance,2
+S101,PL25 4EG,Car Park Management,IdVerde,1
+S101,PL25 4EG,Car Park Management,MSL,1
+S101,PL25 4EG,Ground & Landscaping,MSL,4
+S101,PL25 4EG,Ground & Landscaping,NSS Maintenance,1
+S101,PL25 4EG,Ground & Landscaping,IdVerde,1
+S102,DT10 1QU,Building Fabric Maintenance,MSL,2
+S102,DT10 1QU,Building Fabric Maintenance,Parr FM,2
+S102,DT10 1QU,Car Park Management,UBS,3
+S102,DT10 1QU,Car Park Management,MSL,1
+S102,DT10 1QU,Cleaning,SB-FM,1
+S102,DT10 1QU,M&E Services,UBS,7
+S102,DT10 1QU,M&E Services,RJ Lifts,2
+S103,SN3 3TQ,Cleaning,IdVerde,1
+S103,SN3 3TQ,Ground & Landscaping,IdVerde,2
+S104,GL54 1AX,Building Fabric Maintenance,MSL,4
+S104,GL54 1AX,Building Fabric Maintenance,NSS Maintenance,3
+S104,GL54 1AX,Car Park Management,MSL,1
+S104,GL54 1AX,Ground & Landscaping,MSL,1
+S104,GL54 1AX,M&E Services,MSL,1
+S106,SN1 4GB,Building Fabric Maintenance,JSM Building Solutions,1
+S106,SN1 4GB,Building Fabric Maintenance,NSS Maintenance,1
+S109,CV37 6NQ,Building Fabric Maintenance,UBS,90
+S109,CV37 6NQ,Building Fabric Maintenance,Expert Access Solutions,4
+S109,CV37 6NQ,Building Fabric Maintenance,Dorma Kaba,2
+S109,CV37 6NQ,Building Fabric Maintenance,Marlowe,2
+S109,CV37 6NQ,Building Fabric Maintenance,Parr FM,2
+S109,CV37 6NQ,Building Fabric Maintenance,MSL,1
+S109,CV37 6NQ,Car Park Management,UBS,1
+S109,CV37 6NQ,Cleaning,SB-FM,10
+S109,CV37 6NQ,Cleaning,UBS,3
+S109,CV37 6NQ,Emergency & Fire Safety Systems,Marlowe,14
+S109,CV37 6NQ,Emergency & Fire Safety Systems,UBS,9
+S109,CV37 6NQ,Emergency & Fire Safety Systems,SB-FM,1
+S109,CV37 6NQ,Ground & Landscaping,NSS Maintenance,2
+S109,CV37 6NQ,Ground & Landscaping,UBS,2
+S109,CV37 6NQ,Ground & Landscaping,IdVerde,1
+S109,CV37 6NQ,M&E Services,UBS,107
+S109,CV37 6NQ,M&E Services,RJ Lifts,29
+S109,CV37 6NQ,M&E Services,HCS WATER TREATMENT,13
+S109,CV37 6NQ,M&E Services,Metro Rod,6
+S109,CV37 6NQ,M&E Services,Dorma Kaba,6
+S109,CV37 6NQ,M&E Services,B-Engineering,2
+S109,CV37 6NQ,M&E Services,MSL,2
+S109,CV37 6NQ,M&E Services,Parr FM,1
+S109,CV37 6NQ,M&E Services,Expert Access Solutions,1
+S109,CV37 6NQ,Security,Marlowe,14
+S109,CV37 6NQ,Security,UBS,3
+S109,CV37 6NQ,Security,Dorma Kaba,3
+S109,CV37 6NQ,Waste disposal,SB-FM,2
+S109,CV37 6NQ,Waste disposal,Zest Recycling,1
+S114,S36 1BX,Car Park Management,Arrow Industrial,1
+S114,S36 1BX,Cleaning,J K & J Johnson Grounds Maintenance,1
+S120,DY13 0AA,Building Fabric Maintenance,NSS Maintenance,3
+S120,DY13 0AA,Car Park Management,Bick Construction,2
+S120,DY13 0AA,Ground & Landscaping,IdVerde,2
+S123,TN13 1ED,Building Fabric Maintenance,NSS Maintenance,2
+S123,TN13 1ED,Building Fabric Maintenance,Arrow Industrial,1
+S124,GU47 9BT,Building Fabric Maintenance,Parr FM,2
+S136,S2 2AG,Building Fabric Maintenance,NSS Maintenance,5
+S136,S2 2AG,Building Fabric Maintenance,MSL,2
+S136,S2 2AG,Cleaning,Rentokil,2
+S136,S2 2AG,Ground & Landscaping,Parr FM,1
+S136,S2 2AG,Ground & Landscaping,Ground Control,1
+T004,TN4 9TF,Building Fabric Maintenance,UBS,20
+T004,TN4 9TF,Building Fabric Maintenance,NSS Maintenance,2
+T004,TN4 9TF,Building Fabric Maintenance,MSL,2
+T004,TN4 9TF,Building Fabric Maintenance,Marlowe,1
+T004,TN4 9TF,Building Fabric Maintenance,PTSG - Access & Safety,1
+T004,TN4 9TF,Car Park Management,Arrow Industrial,2
+T004,TN4 9TF,Car Park Management,UBS,2
+T004,TN4 9TF,Car Park Management,IdVerde,1
+T004,TN4 9TF,Cleaning,SB-FM,20
+T004,TN4 9TF,Emergency & Fire Safety Systems,UBS,1
+T004,TN4 9TF,Ground & Landscaping,UBS,1
+T004,TN4 9TF,Ground & Landscaping,MSL,1
+T004,TN4 9TF,M&E Services,UBS,21
+T004,TN4 9TF,M&E Services,Dorma Kaba,4
+T004,TN4 9TF,M&E Services,Metro Rod,3
+T004,TN4 9TF,M&E Services,RJ Lifts,2
+T004,TN4 9TF,M&E Services,Aqualytix,1
+T004,TN4 9TF,M&E Services,Parr FM,1
+T004,TN4 9TF,M&E Services,HFL Building Solutions,1
+T004,TN4 9TF,Security,UBS,2
+T004,TN4 9TF,Security,Marlowe,2
+T004,TN4 9TF,Security,Expert Access Solutions,1
+T004,TN4 9TF,Waste disposal,SB-FM,1
+T005,OL14 5RN,Building Fabric Maintenance,MSL,3
+T005,OL14 5RN,Building Fabric Maintenance,Parr FM,1
+T005,OL14 5RN,Building Fabric Maintenance,NSS Maintenance,1
+T005,OL14 5RN,Emergency & Fire Safety Systems,MSL,1
+T005,OL14 5RN,Ground & Landscaping,MSL,2
+T005,OL14 5RN,M&E Services,PTSG - Electrical Services,2
+T017,TA2 6DG,Building Fabric Maintenance,MSL,2
+T018,NP25 4RB,Building Fabric Maintenance,MSL,3
+T018,NP25 4RB,Building Fabric Maintenance,NSS Maintenance,1
+T020,TF2 9GZ,Building Fabric Maintenance,NSS Maintenance,2
+T020,TF2 9GZ,Building Fabric Maintenance,Franklin Infrastructure,1
+T020,TF2 9GZ,M&E Services,MSL,1
+T021,CF42 6DL,Ground & Landscaping,IdVerde,1
+T023,RM18 7RB,Building Fabric Maintenance,MSL,2
+T023,RM18 7RB,Emergency & Fire Safety Systems,Marlowe,2
+T023,RM18 7RB,Ground & Landscaping,UBS,1
+T023,RM18 7RB,M&E Services,UBS,5
+T023,RM18 7RB,M&E Services,Metro Rod,2
+T025,TN9 1EP,Building Fabric Maintenance,UK Gutters,1
+T025,TN9 1EP,Building Fabric Maintenance,NSS Maintenance,1
+T025,TN9 1EP,Building Fabric Maintenance,MSL,1
+T025,TN9 1EP,Building Fabric Maintenance,Parr FM,1
+T025,TN9 1EP,Building Fabric Maintenance,PTSG - Access & Safety,1
+T025,TN9 1EP,Car Park Management,MSL,2
+T025,TN9 1EP,Cleaning,IdVerde,1
+T025,TN9 1EP,Cleaning,Rentokil,1
+T025,TN9 1EP,Ground & Landscaping,IdVerde,1
+T025,TN9 1EP,M&E Services,Expert Access Solutions,4
+T025,TN9 1EP,M&E Services,MSL,2
+T025,TN9 1EP,M&E Services,Dorma Kaba,1
+T030,WA15 7XR,Building Fabric Maintenance,Parr FM,1
+U003,CH49 0TF,Building Fabric Maintenance,NSS Maintenance,2
+U003,CH49 0TF,Building Fabric Maintenance,Parr FM,1
+W016,BA5 1XJ,Building Fabric Maintenance,UBS,15
+W016,BA5 1XJ,Building Fabric Maintenance,UK Gutters,6
+W016,BA5 1XJ,Building Fabric Maintenance,Dorma Kaba,1
+W016,BA5 1XJ,Building Fabric Maintenance,All Round Security,1
+W016,BA5 1XJ,Building Fabric Maintenance,Parr FM,1
+W016,BA5 1XJ,Emergency & Fire Safety Systems,Marlowe,6
+W016,BA5 1XJ,Ground & Landscaping,IdVerde,2
+W016,BA5 1XJ,Ground & Landscaping,MSL,1
+W016,BA5 1XJ,Ground & Landscaping,UBS,1
+W016,BA5 1XJ,M&E Services,UBS,21
+W016,BA5 1XJ,M&E Services,RJ Lifts,8
+W016,BA5 1XJ,M&E Services,HCS WATER TREATMENT,3
+W016,BA5 1XJ,M&E Services,Aqualytix,3
+W016,BA5 1XJ,M&E Services,B-Engineering,2
+W016,BA5 1XJ,M&E Services,Metro Rod,1
+W016,BA5 1XJ,M&E Services,NSS Maintenance,1
+W016,BA5 1XJ,M&E Services,Parr FM,1
+W016,BA5 1XJ,M&E Services,UK Gutters,1
+W016,BA5 1XJ,Security,Marlowe,2
+W016,BA5 1XJ,Security,UBS,2
+W019,KT14 6DH,Building Fabric Maintenance,UBS,6
+W019,KT14 6DH,Building Fabric Maintenance,NSS Maintenance,3
+W019,KT14 6DH,Building Fabric Maintenance,Rentokil,1
+W019,KT14 6DH,Building Fabric Maintenance,MSL,1
+W019,KT14 6DH,Car Park Management,Parr FM,1
+W019,KT14 6DH,Car Park Management,UBS,1
+W019,KT14 6DH,Cleaning,UBS,2
+W019,KT14 6DH,Emergency & Fire Safety Systems,Marlowe,14
+W019,KT14 6DH,Ground & Landscaping,MSL,2
+W019,KT14 6DH,M&E Services,UBS,31
+W019,KT14 6DH,M&E Services,Expert Access Solutions,2
+W019,KT14 6DH,M&E Services,RJ Lifts,1
+W019,KT14 6DH,M&E Services,Metro Rod,1
+W019,KT14 6DH,M&E Services,MSL,1
+W019,KT14 6DH,M&E Services,Dorma Kaba,1
+W019,KT14 6DH,M&E Services,Aqualytix,1
+W019,KT14 6DH,M&E Services,Arrow Industrial,1
+W019,KT14 6DH,Waste disposal,UBS,1
+W023,CW7 1AT,Car Park Management,Parr FM,4
+W023,CW7 1AT,Car Park Management,Arrow Industrial,1
+W023,CW7 1AT,Ground & Landscaping,Ground Control,1
+W023,CW7 1AT,Ground & Landscaping,Parr FM,1
+W023,CW7 1AT,Ground & Landscaping,IdVerde,1
+W031,CH45 3NA,Ground & Landscaping,IdVerde,1
+W032,NN8 1LP,Building Fabric Maintenance,MSL,2
+W032,NN8 1LP,Building Fabric Maintenance,UBS,1
+W032,NN8 1LP,Emergency & Fire Safety Systems,Marlowe,7
+W032,NN8 1LP,Emergency & Fire Safety Systems,MSL,1
+W032,NN8 1LP,Emergency & Fire Safety Systems,UBS,1
+W032,NN8 1LP,M&E Services,UBS,30
+W032,NN8 1LP,M&E Services,RJ Lifts,4
+W032,NN8 1LP,M&E Services,Metro Rod,3
+W032,NN8 1LP,M&E Services,Aqualytix,2
+W032,NN8 1LP,M&E Services,B-Engineering,1
+W032,NN8 1LP,M&E Services,Classic Lifts,1
+W032,NN8 1LP,M&E Services,Marlowe,1
+W032,NN8 1LP,M&E Services,MSL,1
+W032,NN8 1LP,Security,Marlowe,10
+W035,OX12 9BN,Building Fabric Maintenance,UBS,36
+W035,OX12 9BN,Building Fabric Maintenance,MSL,2
+W035,OX12 9BN,Building Fabric Maintenance,Dorma Kaba,2
+W035,OX12 9BN,Building Fabric Maintenance,NSS Maintenance,1
+W035,OX12 9BN,Building Fabric Maintenance,Expert Access Solutions,1
+W035,OX12 9BN,Building Fabric Maintenance,Parr FM,1
+W035,OX12 9BN,Building Fabric Maintenance,Rentokil,1
+W035,OX12 9BN,Cleaning,Rentokil,2
+W035,OX12 9BN,Cleaning,SB-FM,1
+W035,OX12 9BN,Emergency & Fire Safety Systems,Marlowe,7
+W035,OX12 9BN,Emergency & Fire Safety Systems,UBS,3
+W035,OX12 9BN,Emergency & Fire Safety Systems,Dorma Kaba,2
+W035,OX12 9BN,Ground & Landscaping,IdVerde,1
+W035,OX12 9BN,Ground & Landscaping,UBS,1
+W035,OX12 9BN,M&E Services,UBS,22
+W035,OX12 9BN,M&E Services,RJ Lifts,7
+W035,OX12 9BN,M&E Services,Metro Rod,2
+W035,OX12 9BN,M&E Services,Aqualytix,1
+W035,OX12 9BN,M&E Services,Arrow Industrial,1
+W035,OX12 9BN,M&E Services,Parr FM,1
+W035,OX12 9BN,Security,Marlowe,2
+W035,OX12 9BN,Security,Securigroup,1
+W042,DE65 6QT,Building Fabric Maintenance,Parr FM,1
+W042,DE65 6QT,Ground & Landscaping,IdVerde,1
+W042,DE65 6QT,Ground & Landscaping,Ground Control,1
+W042,DE65 6QT,Security,Arrow Industrial,1
+W042,DE65 6QT,Security,All Round Security,1
+W044,DL15 0EQ,Building Fabric Maintenance,NSS Maintenance,7
+W044,DL15 0EQ,Building Fabric Maintenance,HFL Building Solutions,2
+W044,DL15 0EQ,Cleaning,J K & J Johnson Grounds Maintenance,1
+W044,DL15 0EQ,Ground & Landscaping,HFL Building Solutions,1
+W044,DL15 0EQ,M&E Services,HFL Building Solutions,5
+W044,DL15 0EQ,M&E Services,B-Engineering,4
+W044,DL15 0EQ,M&E Services,Aqualytix,2
+W044,DL15 0EQ,M&E Services,RJ Lifts,1
+W044,DL15 0EQ,Security,Arrow Industrial,1
+W044,DL15 0EQ,Security,Marlowe,1
+W045,NE29 6HT,Cleaning,MSL,1
+W045,NE29 6HT,M&E Services,HFL Building Solutions,3
+W045,NE29 6HT,M&E Services,Metro Rod,2
+W045,NE29 6HT,M&E Services,Arrow Industrial,2
+W045,NE29 6HT,M&E Services,Aqualytix,1
+W045,NE29 6HT,Security,Arrow Industrial,2
+W048,WR4 9TX,Building Fabric Maintenance,NSS Maintenance,1
+W050,WR5 1HG,Building Fabric Maintenance,MSL,3
+W050,WR5 1HG,Building Fabric Maintenance,NSS Maintenance,2
+W050,WR5 1HG,Building Fabric Maintenance,Parr FM,1
+W050,WR5 1HG,Car Park Management,Parr FM,5
+W050,WR5 1HG,Cleaning,IdVerde,1
+W050,WR5 1HG,Ground & Landscaping,Parr FM,2
+W050,WR5 1HG,Ground & Landscaping,MSL,2
+W050,WR5 1HG,Ground & Landscaping,IdVerde,1
+W059,CO7 9PP,Ground & Landscaping,IdVerde,1
+W059,CO7 9PP,Ground & Landscaping,Parr FM,1
+W059,CO7 9PP,M&E Services,UBS,1
+W061,DE11 7JE,Building Fabric Maintenance,MSL,1
+W074,ME19 4JF,M&E Services,Metro Rod,2
+W075,SG12 9AD,Building Fabric Maintenance,NSS Maintenance,1
+W077,WR12 7DE,Building Fabric Maintenance,NSS Maintenance,2
+W077,WR12 7DE,Building Fabric Maintenance,MSL,2
+W077,WR12 7DE,Building Fabric Maintenance,PTSG - Access & Safety,1
+W077,WR12 7DE,Building Fabric Maintenance,PTSG - Electrical Services,1
+W077,WR12 7DE,Car Park Management,Arrow Industrial,1
+W077,WR12 7DE,Ground & Landscaping,MSL,4
+W077,WR12 7DE,Ground & Landscaping,UBS,2
+W077,WR12 7DE,Security,Marlowe,1
+W077,WR12 7DE,Security,MSL,1
+W080,WR8 0QL,Building Fabric Maintenance,UBS,21
+W080,WR8 0QL,Building Fabric Maintenance,NSS Maintenance,2
+W080,WR8 0QL,Building Fabric Maintenance,MSL,1
+W080,WR8 0QL,Building Fabric Maintenance,Parr FM,1
+W080,WR8 0QL,Building Fabric Maintenance,Expert Access Solutions,1
+W080,WR8 0QL,Cleaning,Rentokil,1
+W080,WR8 0QL,Emergency & Fire Safety Systems,Marlowe,6
+W080,WR8 0QL,Emergency & Fire Safety Systems,UBS,2
+W080,WR8 0QL,Ground & Landscaping,IdVerde,1
+W080,WR8 0QL,Ground & Landscaping,Ground Control,1
+W080,WR8 0QL,M&E Services,UBS,30
+W080,WR8 0QL,M&E Services,B-Engineering,3
+W080,WR8 0QL,M&E Services,Arrow Industrial,1
+W080,WR8 0QL,M&E Services,UK Gutters,1
+W080,WR8 0QL,Security,Marlowe,1
+W081, NE28 8JR,Building Fabric Maintenance,Franklin Infrastructure,2
+W081, NE28 8JR,Building Fabric Maintenance,JSM Building Solutions,1
+W081, NE28 8JR,Building Fabric Maintenance,Parr FM,1
+W081, NE28 8JR,Building Fabric Maintenance,UBS,1
+W081, NE28 8JR,Cleaning,HFL Building Solutions,5
+W081, NE28 8JR,Cleaning,Marlowe,3
+W081, NE28 8JR,Cleaning,Metro Rod,2
+W081, NE28 8JR,Cleaning,SB-FM,1
+W081, NE28 8JR,Ground & Landscaping,HFL Building Solutions,1
+W081, NE28 8JR,M&E Services,HFL Building Solutions,2
+W081, NE28 8JR,M&E Services,Metro Rod,1
+W081, NE28 8JR,Security,Marlowe,7
+W081, NE28 8JR,Security,HFL Building Solutions,1
+W086,DT4 7DW,M&E Services,RJ Lifts,1
+Y014,YO43 3FF,Building Fabric Maintenance,NSS Maintenance,16
+Y014,YO43 3FF,Building Fabric Maintenance,PTSG - Access & Safety,1
+Y014,YO43 3FF,Building Fabric Maintenance,Rentokil,1
+Y014,YO43 3FF,Car Park Management,Arrow Industrial,1
+Y014,YO43 3FF,Emergency & Fire Safety Systems,UBS,1
+Y014,YO43 3FF,Emergency & Fire Safety Systems,Marlowe,1
+Y014,YO43 3FF,Ground & Landscaping,NSS Maintenance,1
+Y014,YO43 3FF,M&E Services,Arrow Industrial,4
+Y014,YO43 3FF,Security,Arrow Industrial,2
+Y016,ME18 6ES,Car Park Management,MSL,2
+Y016,ME18 6ES,Car Park Management,Arrow Industrial,2
